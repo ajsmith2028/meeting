@@ -1,42 +1,32 @@
-# Welcome
+# Group meeting schedule #
+Catalyst Design Lab (PI: Andrew Peterson)
 
-Welcome to your wiki! This is the default page we've installed for your convenience. Go ahead and edit it.
+**Fall 2014**  
+Group Meeting Schedule  
+Thursdays, 4-6 pm, B&H 312  
 
-## Wiki features
-
-This wiki uses the [Markdown](http://daringfireball.net/projects/markdown/) syntax.
-
-The wiki itself is actually a git repository, which means you can clone it, edit it locally/offline, add images or any other file type, and push it back to us. It will be live immediately.
-
-Go ahead and try:
-
-```
-$ git clone https://andrewpeterson@bitbucket.org/andrewpeterson/groupmeetingschedule.git/wiki
-```
-
-Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
-
-## Syntax highlighting
-
-
-You can also highlight snippets of text (we use the excellent [Pygments][] library).
-
-[Pygments]: http://pygments.org/
-
-
-Here's an example of some Python code:
-
-```
-#!python
-
-def wiki_rocks(text):
-    formatter = lambda t: "funky"+t
-    return formatter(text)
-```
-
-
-You can check out the source of this page to see how that's done, and make sure to bookmark [the vast library of Pygment lexers][lexers], we accept the 'short name' or the 'mimetype' of anything in there.
-[lexers]: http://pygments.org/docs/lexers/
-
-
-Have fun!
+|   Date     |   Presenter   |   Topic                                                   |   Notes   |
+| ---------- | ------------- | --------------------------------------------------------- | --------- |
+| 09/04/2014 | Yuri          | Summer overview                                           |           |
+| 09/11/2014 | Benjamin      | Literature                                                |           |
+| 09/18/2014 | Kai Yan       | strain on thin film                                       |           |
+| 09/25/2014 | Yin-Jia       | literature (TBD)                                          |           |
+| 09/25/2014 | Seokki        | research                                                  |           |
+| 10/02/2014 | Alireza       | Research (NNPs)                                           |           |
+| 10/02/2014 | Annan         | Literature                                                |           |
+| 10/09/2014 | Martha        | literature (Li-ion batteries)                             |           |
+| 10/09/2014 | James         | Present on summer work                                    |           |
+| 10/16/2014 | Benjamin      | Research: Role of hydrogen in decarboxylation             |           |
+| 10/16/2014 | Seokki        | literature                                                |           |
+| 10/23/2014 | KY            | Strain on thin film                                       |           |
+| 10/23/2014 | Annan         | Research                                                  |           |
+| 10/30/2014 | James         | Literature (TBD)                                          |           |
+| 10/30/2014 | Yuri          | Literature (TBD)                                          |           |
+| 11/06/2014 | Yin-Jia       | research                                                  |           |
+| 11/06/2014 | Martha        | research (Li-ion batteries)                               |           |
+| 11/13/2014 | Alireza       | Literature (TBD)                                          |           |
+| 11/13/2014 | Rebecca       | Literature (TBD)                                          |           |
+| 11/20/2014 | No Meeting    |                                                           |           |
+| 11/27/2014 | No Meeting    |   (Thanksgiving)                                          |           |
+| 12/04/2014 | No Meeting    |                                                           |           |
+| 12/11/2014 | No Meeting    ||   || (Finals) ||   ||   ||
