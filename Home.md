@@ -1,5 +1,5 @@
 # Group meeting schedule #
-Catalyst Design Lab (PI: Andrew Peterson)
+[Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
 **Fall 2014**  
 Group Meeting Schedule  
