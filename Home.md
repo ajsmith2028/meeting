@@ -12,7 +12,7 @@ Thursdays, 4-6 pm, B&H 312
 | 09/18/2014 | Kai Yan       | strain on thin film                                       |           |
 | 09/25/2014 | Yin-Jia       | literature (TBD)                                          |           |
 | 09/25/2014 | Seokki        | research                                                  |           |
-| 10/02/2014 | Alireza       | Research (Neural Network Potentials)                                           |           |
+| 10/02/2014 | Alireza       | Research (machine-learning acceleration of electronic structure calculations)                                           |           |
 | 10/02/2014 | Annan         | Literature                                                |           |
 | 10/09/2014 | Martha        | literature (Li-ion batteries)                             |           |
 | 10/09/2014 | James         | Present on summer work                                    |           |
