@@ -22,6 +22,7 @@ Thursdays, 4-6 pm, B&H 312
 | 10/23/2014 | Annan         | Research                                                  |           |
 | 10/30/2014 | James         | Literature (TBD)                                          |           |
 | 10/30/2014 | Yuri          | Literature (TBD)                                          |           |
+| 10/30/2014 | Helen       | Literature (TBD)
 | 11/06/2014 | Yin-Jia       | research                                                  |           |
 | 11/06/2014 | Martha        | research (Li-ion batteries)                               |           |
 | 11/13/2014 | Alireza       | Literature (TBD)                                          |           |
