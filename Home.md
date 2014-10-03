@@ -20,7 +20,7 @@ Thursdays, 4-6 pm, B&H 312
 | 10/16/2014 | Seokki        | literature                                                |           |
 | 10/23/2014 | KY            | Strain on thin film                                       |           |
 | 10/23/2014 | Annan         | Research                                                  |           |
-| 10/30/2014 | James         | Literature (TBD)                                          |           |
+| 10/30/2014 | James         | Present on summer work                                          |           |
 | 10/30/2014 | Yuri          | Literature (TBD)                                          |           |
 | 10/30/2014 | Helen       | Literature (TBD)
 | 11/06/2014 | Yin-Jia       | research                                                  |           |
