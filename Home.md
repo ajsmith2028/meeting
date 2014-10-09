@@ -14,10 +14,10 @@ Thursdays, 4-6 pm, B&H 312
 | 09/25/2014 | Seokki        | research                                                  |           |
 | 10/02/2014 | Annan         | Literature report: "High-performance Ag–Co alloy catalysts for electrochemical oxygen reduction", *Nat. Chem.*  6:828                                              |           |
 | 10/02/2014 | Alireza       | Research report: "Machine-learning acceleration of electronic structure calculations"                                           |           |
-| 10/09/2014 | Martha        | literature (Li-ion batteries)                             |           |
-| 10/09/2014 | James         | Present on summer work                                    |           |
 | 10/16/2014 | Benjamin      | Research: Role of hydrogen in decarboxylation             |           |
 | 10/16/2014 | Seokki        | literature                                                |           |
+| 10/20/2014 | Martha        | literature (Li-ion batteries)                             |           |
+| 10/20/2014 | James         | Present on summer work                                    |           |
 | 10/23/2014 | KY            | Strain on thin film                                       |           |
 | 10/23/2014 | Annan         | Research                                                  |           |
 | 10/30/2014 | James         | Present on summer work                                          |           |
