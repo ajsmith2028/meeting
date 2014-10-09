@@ -17,7 +17,7 @@ Thursdays, 4-6 pm, B&H 312
 | 10/16/2014 | Benjamin      | Research: Role of hydrogen in decarboxylation             |           |
 | 10/16/2014 | Seokki        | literature                                                |           |
 | 10/20/2014 | Martha        | literature (Li-ion batteries)                             |           |
-| 10/20/2014 | James         | Present on summer work                                    |           |
+| 10/20/2014 | James         | Literature                                    |           |
 | 10/23/2014 | KY            | Strain on thin film                                       |           |
 | 10/23/2014 | Annan         | Research                                                  |           |
 | 10/30/2014 | James         | Present on summer work                                          |           |
