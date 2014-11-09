@@ -25,7 +25,7 @@ Thursdays, 4-6 pm, B&H 312
 | 11/06/2014 | Yin-Jia       | research                                                  |           |
 | 11/06/2014 | Martha        | research (Li-ion batteries)                               |           |
 | 11/06/2014 | Yuri       | Literature: Neural Network for PES calculations J Behler                               |           |
-| 11/13/2014 | Alireza       | Literature (GAP: Gaussian Approximation Potential)                                          |           |
+| 11/13/2014 | Alireza       | Literature report: Gaussian Approximation Potential (GAP)                                          |           |
 | 11/13/2014 | Rebecca       | Literature (TBD)                                          |           |
 | 11/20/2014 | No Meeting    |                                                           |           |
 | 11/27/2014 | No Meeting    |   (Thanksgiving)                                          |           |
