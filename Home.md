@@ -5,7 +5,7 @@
 Group Meeting Schedule  
 Thursdays, 4-6 pm, BERT 325 (85 Waterman St)  
 
-|   Date     |   Presenter   |   Topic                                                   |   Notes   |
+|   Date     |   Presenter   |   Talk Title                                                   |   Notes   |
 | ---------- | ------------- | --------------------------------------------------------- | --------- |
 | 01/22/2015 |-          | No meeting                                            |  (post-holiday party)         |
 | 01/29/2015 |-          |                                       |           |
