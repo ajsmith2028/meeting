@@ -1,33 +1,24 @@
 # Group meeting schedule #
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
-**Fall 2014**  
+**Spring 2015**  
 Group Meeting Schedule  
-Thursdays, 4-6 pm, B&H 312  
+Thursdays, 4-6 pm, BERT 325 (85 Waterman St)  
 
 |   Date     |   Presenter   |   Topic                                                   |   Notes   |
 | ---------- | ------------- | --------------------------------------------------------- | --------- |
-| 09/04/2014 | Yuri          | Summer overview                                           |           |
-| 09/11/2014 | Benjamin      | Literature                                                |           |
-| 09/18/2014 | Kai Yan       | strain on thin film                                       |           |
-| 09/25/2014 | Yin-Jia       | literature (TBD)                                          |           |
-| 09/25/2014 | Seokki        | research                                                  |           |
-| 10/02/2014 | Annan         | Literature report: "High-performance Ag–Co alloy catalysts for electrochemical oxygen reduction", *Nat. Chem.*  6:828                                              |           |
-| 10/02/2014 | Alireza       | Research report: "Machine-learning acceleration of electronic structure calculations"                                           |           |
-| 10/16/2014 | Benjamin      | Research: Role of hydrogen in decarboxylation             |           |
-| 10/16/2014 | Seokki        | literature                                                |           |
-| 10/20/2014 | Martha        | literature (Li-ion batteries)                             |   **ROOM 631**        |
-| 10/20/2014 | James         | Literature                                    |    **ROOM 631**        |
-| 10/23/2014 | KY            | Strain on thin film                                       |           |
-| 10/23/2014 | Annan         | Research                                                  |           |
-| 10/30/2014 | James         | Present on summer work                                          |           |
-| 10/30/2014 | Helen       | Literature (Hydrodeoxygenation of anisole)
-| 11/06/2014 | Yin-Jia       | research                                                  |           |
-| 11/06/2014 | Martha        | research (Li-ion batteries)                               |           |
-| 11/06/2014 | Yuri       | Literature: Neural Network for PES calculations J Behler                               |           |
-| 11/13/2014 | Alireza       | Literature report: Gaussian Approximation Potential (GAP)                                          |           |
-| 11/13/2014 | Rebecca       | Literature (TBD)                                          |           |
-| 11/20/2014 | No Meeting    |                                                           |           |
-| 11/27/2014 | No Meeting    |   (Thanksgiving)                                          |           |
-| 12/04/2014 | No Meeting    |                                                           |           |
-| 12/11/2014 | No Meeting    ||   || (Finals) ||   ||   ||
+| 01/22/2015 |-          | No meeting                                            |  (post-holiday party)         |
+| 01/29/2015 |-          |                                       |           |
+| 02/05/2015 |-          |                                       |           |
+| 02/12/2015 |-          |                                       |           |
+| 02/19/2015 |-          |                                       |           |
+| 02/26/2015 |-          |                                       |           |
+| 03/05/2015 |-          |                                       |           |
+| 03/12/2015 |-          |   No meeting    | (C4 review)          |
+| 03/19/2015 |-          |                                       |           |
+| 03/26/2015 |-          |   No meeting     | (Spring break)           |
+| 04/02/2015 |-          |                                       |           |
+| 04/09/2015 |-          |                                       |           |
+| 04/16/2015 |-          |                                       |           |
+| 04/23/2015 |-          |                                       |           |
+| 04/30/2015 |-          |                                       |  (Reading period)         |
