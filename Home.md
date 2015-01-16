@@ -12,13 +12,13 @@ Thursdays, 4-6 pm, BERT 325 (85 Waterman St)
 | 02/05/2015 |-          |                                       |           |
 | 02/12/2015 |-          |                                       |           |
 | 02/19/2015 |- KY         |  ND, R or L                                     |           |
-| 02/26/2015 |-          |                                       |           |
+| 02/26/2015 |- Seokki         | Research                                      |           |
 | 03/05/2015 |-          |                                       |           |
 | 03/12/2015 |-          |   No meeting    | (C4 review)          |
 | 03/19/2015 |-  Yuri  |   Research                     |           |
 | 03/26/2015 |-          |   No meeting     | (Spring break)           |
 | 04/02/2015 |-   KY       |  ND, R or L                                      |           |
-| 04/09/2015 |-          |                                       |           |
+| 04/09/2015 |-    Seokki      | Literature                                      |           |
 | 04/16/2015 |-  Yuri  |       Literature (TBD)                 |           |
 | 04/23/2015 | Yin-Jia          | Research                                    |           |
 | 04/30/2015 |-          |                                       |  (Reading period)         |
