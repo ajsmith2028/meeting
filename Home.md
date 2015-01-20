@@ -20,6 +20,6 @@ Thursdays, 4-6 pm, BERT 325 (85 Waterman St)
 | 04/02/2015 |-   KY       |  ND, R or L                                      |           |
 | 04/02/2015 |-   Helen       |  Research                                      |           |
 | 04/09/2015 |-    Seokki      | Literature                                      |           |
-| 04/16/2015 |-  Yuri  |       Literature (TBD)                 |           |
+| 04/16/2015 |-  Yuri  |       Research                 |           |
 | 04/23/2015 | Yin-Jia          | Research                                    |           |
 | 04/30/2015 |-          |                                       |  (Reading period)         |
