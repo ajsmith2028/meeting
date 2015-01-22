@@ -27,4 +27,5 @@ Thursdays, 4-6 pm, BERT 325 (85 Waterman St)
 | 04/16/2015 |-  Yuri  |       Research                 |           |
 | 04/16/2015 |-  Martha  |       Research                 |           |
 | 04/23/2015 | Yin-Jia          | Research                                    |           |
+| 04/23/2015 | James          | Research                                    |           |
 | 04/30/2015 |-          |                                       |  (Reading period)         |
