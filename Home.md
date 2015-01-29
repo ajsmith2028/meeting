@@ -12,7 +12,7 @@ Thursdays, 4-6 pm, BERT 325 (85 Waterman St)
 | 02/05/2015 | Alireza          | Literature (TBD)                                     |           |
 | 02/12/2015 | Ulrik         | Research                                      |           |
 | 02/12/2015 | Alireza     | Research                                      |           |
-| 02/19/2015 |- KY         |  ND, R or L                                     |           |
+| 02/19/2015 |- KY         |  Literature                                    |           |
 | 02/26/2015 |- Seokki         | Research                                      |           |
 | 02/26/2015 |- Martha         | Literature                                      |           |
 | 03/05/2015 |-  Helen        |  Literature (TBD)                                     |           |
@@ -21,7 +21,7 @@ Thursdays, 4-6 pm, BERT 325 (85 Waterman St)
 | 03/19/2015 |-  Yuri  |   Literature - An Artificial Neuron with Quantum Mechanical Properties - Dan Ventura and Tony Martinez                     |           |
 | 03/19/2015 |-  James |   Literature      |           |
 | 03/26/2015 |-          |   No meeting     | (Spring break)           |
-| 04/02/2015 |-   KY       |  ND, R or L                                      |           |
+| 04/02/2015 |-   KY       |  Research                                        |           |
 | 04/02/2015 |-   Helen       |  Research                                      |           |
 | 04/09/2015 |-    Seokki      | Literature                                      |           |
 | 04/09/2015 |-    Benjamin      | Research: Continuous deoxygenation       |           |
