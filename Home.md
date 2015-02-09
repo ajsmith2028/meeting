@@ -11,7 +11,7 @@ Thursdays, 4-6 pm, BERT 325 (85 Waterman St)
 | 01/29/2015 | Yin-Jia          | Literature, Why (1 0 0) Terraces Break and Make Bonds: Oxidation of Dimethyl Ether on Platinum Single-Crystal Electrodes                                      |           |
 | 02/05/2015 | Alireza          | Research: Updates on neural calculator                                    |           |
 | 02/12/2015 | Ulrik         | Research                                      |           |
-| 02/12/2015 | Alireza     |  Literature (TBD)                                      |           |
+| 02/12/2015 | Alireza     |  Literature: ReaxFF                                      |           |
 | 02/19/2015 |- KY         |  Literature                                    |           |
 | 02/26/2015 |- Seokki         | Research                                      |           |
 | 02/26/2015 |- Martha         | Literature                                      |           |
