@@ -10,7 +10,7 @@ Thursdays, 4-6 pm, BERT 325 (85 Waterman St)
 | 01/22/2015 |-          | No meeting                                            |  (post-holiday party)         |
 | 01/29/2015 | Yin-Jia          | Literature, Why (1 0 0) Terraces Break and Make Bonds: Oxidation of Dimethyl Ether on Platinum Single-Crystal Electrodes                                      |           |
 | 02/05/2015 | Alireza          | Research: Updates on neural calculator                                    |           |
-| 02/12/2015 | Ulrik         | Research: Diffusion and dealloying in Pt-based alloys for ORR                                     |           |
+| 02/12/2015 | Ulrik         | Research: Diffusion and dealloying in Pt-based alloys as catalysts for the Oxygen Reduction Reaction (ORR)                                     |           |
 | 02/12/2015 | Alireza     |  Literature: ReaxFF                                      |           |
 | 02/19/2015 |- KY         |  Literature                                    |           |
 | 02/26/2015 |- Seokki         | Research                                      |           |
