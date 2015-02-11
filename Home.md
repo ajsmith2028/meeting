@@ -16,7 +16,7 @@ Thursdays, 4-6 pm, BERT 325 (85 Waterman St)
 | 02/26/2015 |- Seokki         | Research                                      |           |
 | 02/26/2015 |- Martha         | Literature                                      |           |
 | 03/05/2015 |-  Helen        |  Literature (TBD)                                     |           |
-| 03/05/2015 |-  Benjamin        |  Literature (TBD)                                     |           |
+| 03/05/2015 |-  Benjamin |  Literature: Deoxygenation articles from the van Es group |           |
 | 03/12/2015 |-          |   No meeting    | (C4 review)          |
 | 03/19/2015 |-  Yuri  |   Literature - An Artificial Neuron with Quantum Mechanical Properties - Dan Ventura and Tony Martinez                     |           |
 | 03/19/2015 |-  James |   Literature      |           |
