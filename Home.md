@@ -13,7 +13,7 @@ Thursdays, 4-6 pm, BERT 325 (85 Waterman St)
 | 02/12/2015 | Ulrik         | Research: Diffusion and dealloying in Pt-based alloys as catalysts for the Oxygen Reduction Reaction (ORR)                                     |           |
 | 02/12/2015 | Alireza     |  Literature: ReaxFF                                      |           |
 | 02/19/2015 |- KY         |  Literature                                    |           |
-| 02/26/2015 |- Seokki         | Research                                      |           |
+| 02/26/2015 | Seokki         | Research : Guideline for catalyst material for CO2 reduction                    |           |
 | 02/26/2015 |- Martha         | Literature                                      |           |
 | 03/05/2015 |-  Helen        |  Literature (TBD)                                     |           |
 | 03/05/2015 |Benjamin |  Literature: Deoxygenation articles from the van Es group |           |
@@ -23,7 +23,7 @@ Thursdays, 4-6 pm, BERT 325 (85 Waterman St)
 | 03/26/2015 |-          |   No meeting     | (Spring break)           |
 | 04/02/2015 |-   KY       |  Research                                        |           |
 | 04/02/2015 |-   Helen       |  Research                                      |           |
-| 04/09/2015 |-    Seokki      | Literature                                      |           |
+| 04/09/2015 |    Seokki      | Literature                                      |           |
 | 04/09/2015 |Benjamin      | Research: Continuous deoxygenation       |           |
 | 04/16/2015 |-  Yuri  |       Research                 |           |
 | 04/16/2015 |-  Martha  |       Research                 |           |
