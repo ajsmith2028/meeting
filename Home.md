@@ -15,7 +15,7 @@ Thursdays, 4-6 pm, BERT 325 (85 Waterman St)
 | 02/19/2015 |- KY         |  Literature                                    |           |
 | 02/26/2015 | Seokki         | Research : Guideline for catalyst material for CO2 reduction                    |           |
 | 02/26/2015 |- Martha         | Literature                                      |           |
-| 03/05/2015 |-  Helen        |  Literature (TBD)                                     |           |
+| 03/05/2015 |-  Helen        |  Literature:Anisole & Guaiacol HDO Reaction PAthways over Selected Catalysts- Peters et al.                                    |           |
 | 03/05/2015 |Benjamin |  Literature: Deoxygenation articles from the van Es group |           |
 | 03/12/2015 |-          |   No meeting    | (C4 review)          |
 | 03/19/2015 |-  Yuri  |   Literature - An Artificial Neuron with Quantum Mechanical Properties - Dan Ventura and Tony Martinez                     |           |
