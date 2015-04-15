@@ -25,7 +25,7 @@ Thursdays, 4-6 pm, BERT 325 (85 Waterman St)
 | 04/02/2015 |-   Helen       |  Research                                      |           |
 | 04/09/2015 |    Seokki      | Literature                                      |           |
 | 04/09/2015 |Benjamin      | Research: Continuous deoxygenation       |           |
-| 04/16/2015 |-  Yuri  |       Research                 |           |
+| 04/16/2015 |-  Yuri  |       Research - Cartesian Neural Update                 |           |
 | 04/16/2015 |-  Martha  |       Research                 |           |
 | 04/23/2015 | Yin-Jia          | Research                                    |           |
 | 04/23/2015 | James          | Research                                    |           |
