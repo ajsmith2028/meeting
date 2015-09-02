@@ -1,7 +1,7 @@
 # Group meeting schedule #
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
-**Spring 2015**  
+**Fall 2015**  
 Group Meeting Schedule  
 Thursdays, 4-6 pm, Arnold Labs 3xx (Waterman St)  
 
