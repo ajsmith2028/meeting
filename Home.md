@@ -3,7 +3,7 @@
 
 **Spring 2015**  
 Group Meeting Schedule  
-Thursdays, 4-6 pm, BERT 325 (85 Waterman St)  
+Thursdays, 4-6 pm, Arnold Labs 3xx (Waterman St)  
 
 |   Date     |   Presenter   |   Talk Title                                                   |   Notes   |
 | ---------- | ------------- | --------------------------------------------------------- | --------- |
