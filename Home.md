@@ -18,7 +18,7 @@ Thursdays, 4-6 pm, Arnold Labs 3xx (Waterman St)
 | 03/05/2015 |-  Helen        |  Literature:Anisole & Guaiacol HDO Reaction PAthways over Selected Catalysts- Peters et al.                                    |           |
 | 03/05/2015 |Benjamin |  Literature: Deoxygenation articles from the van Es group |           |
 | 03/12/2015 |-          |   No meeting    | (C4 review)          |
-| 03/19/2015 |-  Yuri  |   Literature - An Artificial Neuron with Quantum Mechanical Properties - Dan Ventura and Tony Martinez                     |           |
+| 03/19/2015 |-  Yuri  |   Global Optimization for Neural Network Training -- Yi Shang and Benjamin W. Wah
 | 03/19/2015 |-  James |   Literature      |           |
 | 03/26/2015 |-          |   No meeting     | (Spring break)           |
 | 04/02/2015 |-   KY       |  Research                                        |           |
