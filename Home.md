@@ -12,7 +12,7 @@ Thursdays, 4-6 pm, Arnold Labs 308 (Waterman St)
 | 09/10 (2)  |               |                                                           |           |
 | 09/17 (1)  |               |                                                           |           |
 | 09/17 (2)  | Alireza       |  Research: Update on Amp                                  |           |
-| 09/24 (1)  |               |                                                           |           |
+| 09/24 (1)  | Yin-Jia       |  Literature TBD                               |           |
 | 09/24 (2)  |               |                                                           |           |
 | 10/01 (1)  |               |                                                           |           |
 | 10/01 (2)  |               |                                                           |           |
@@ -20,7 +20,7 @@ Thursdays, 4-6 pm, Arnold Labs 308 (Waterman St)
 | 10/08 (2)  |               |                                                           |           |
 | 10/15 (1)  |               |                                                           |           |
 | 10/15 (2)  |    Ryan       | Literature (TBD)                                          |           |
-| 10/22 (1)  |               |                                                           |           |
+| 10/22 (1)  |   Yin-Jia     | Research                                      |           |
 | 10/22 (2)  |               |                                                           |           |
 | 10/29 (1)  |  No meeting   |                                                           |           |
 | 11/05 (1)  |               |                                                           |           |
