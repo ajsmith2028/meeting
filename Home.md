@@ -5,28 +5,35 @@
 Group Meeting Schedule  
 Thursdays, 4-6 pm, Arnold Labs 3xx (Waterman St)  
 
-|   Date     |   Presenter   |   Talk Title                                                   |   Notes   |
+
+|   Date     |   Presenter   |   Talk Title                                              |   Notes   |
 | ---------- | ------------- | --------------------------------------------------------- | --------- |
-| 01/22/2015 |-          | No meeting                                            |  (post-holiday party)         |
-| 01/29/2015 | Yin-Jia          | Literature, Why (1 0 0) Terraces Break and Make Bonds: Oxidation of Dimethyl Ether on Platinum Single-Crystal Electrodes                                      |           |
-| 02/05/2015 | Alireza          | Research: Updates on neural calculator                                    |           |
-| 02/12/2015 | Ulrik         | Research: Diffusion and dealloying in Pt-based alloys as catalysts for the Oxygen Reduction Reaction (ORR)                                     |           |
-| 02/12/2015 | Alireza     |  Literature: ReaxFF                                      |           |
-| 02/19/2015 |- KY         |  Literature                                    |           |
-| 02/26/2015 | Seokki         | Research : Guideline for catalyst material for CO2 reduction                    |           |
-| 02/26/2015 |- Martha         | Literature                                      |           |
-| 03/05/2015 |-  Helen        |  Literature:Anisole & Guaiacol HDO Reaction PAthways over Selected Catalysts- Peters et al.                                    |           |
-| 03/05/2015 |Benjamin |  Literature: Deoxygenation articles from the van Es group |           |
-| 03/12/2015 |-          |   No meeting    | (C4 review)          |
-| 03/19/2015 |-  Yuri  |   Global Optimization for Neural Network Training -- Yi Shang and Benjamin W. Wah
-| 03/19/2015 |-  James |   Literature      |           |
-| 03/26/2015 |-          |   No meeting     | (Spring break)           |
-| 04/02/2015 |-   KY       |  Research                                        |           |
-| 04/02/2015 |-   Helen       |  Research                                      |           |
-| 04/09/2015 |    Seokki      | Literature                                      |           |
-| 04/09/2015 |Benjamin      | Research: Continuous deoxygenation       |           |
-| 04/16/2015 |-  Yuri  |       Research - Cartesian Neural Update                 |           |
-| 04/16/2015 |-  Martha  |       Research                 |           |
-| 04/23/2015 | Yin-Jia          | Research                                    |           |
-| 04/23/2015 | James          | Research                                    |           |
-| 04/30/2015 |-          |                                       |  (Reading period)         |
+| 09/10 (1)  |               |                                                           |           |
+| 09/10 (2)  |               |                                                           |           |
+| 09/17 (1)  |               |                                                           |           |
+| 09/17 (2)  |               |                                                           |           |
+| 09/24 (1)  |               |                                                           |           |
+| 09/24 (2)  |               |                                                           |           |
+| 10/01 (1)  |               |                                                           |           |
+| 10/01 (2)  |               |                                                           |           |
+| 10/08 (1)  |               |                                                           |           |
+| 10/08 (2)  |               |                                                           |           |
+| 10/15 (1)  |               |                                                           |           |
+| 10/15 (2)  |               |                                                           |           |
+| 10/22 (1)  |               |                                                           |           |
+| 10/22 (2)  |               |                                                           |           |
+| 10/29 (1)  |               |                                                           |           |
+| 10/29 (2)  |               |                                                           |           |
+| 11/05 (1)  |               |                                                           |           |
+| 11/05 (2)  |               |                                                           |           |
+| 11/12 (1)  |               |                                                           |           |
+| 11/12 (2)  |               |                                                           |           |
+| 11/19 (1)  |               |                                                           |           |
+| 11/19 (2)  |               |                                                           |           |
+| 11/26      | No Meeting    | ----------------                                          | Thanksgiving |
+| 12/03 (1)  |               |                                                           |           |
+| 12/03 (2)  |               |                                                           |           |
+| 12/10 (1)  |               |                                                           |           |
+| 12/10 (2)  |               |                                                           |           |
+| 12/17 (1)  |               |                                                           |           |
+| 12/17 (2)  |               |                                                           |           |
