@@ -3,7 +3,7 @@
 
 **Fall 2015**  
 Group Meeting Schedule  
-Thursdays, 4-6 pm, Arnold Labs 3xx (Waterman St)  
+Thursdays, 4-6 pm, Arnold Labs 308 (Waterman St)  
 
 
 |   Date     |   Presenter   |   Talk Title                                              |   Notes   |
