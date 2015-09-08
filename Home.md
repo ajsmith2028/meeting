@@ -30,4 +30,4 @@ Thursdays, 4-6 pm, Arnold Labs 308 (Waterman St)
 | 11/19 (2)  |  Alireza      | Literature (TBD)                                          |           |
 | 11/26      | No Meeting    | ----------------                                          | Thanksgiving |
 | 12/03 (1)  |    Rebecca    | Research Update                                           |           |
-| 12/03 (2)  |               |                                                           |           |
+| 12/03 (2)  |    James      | Research Update                                           |           |
