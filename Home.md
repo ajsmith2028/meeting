@@ -14,7 +14,7 @@ Thursdays, 4-6 pm, Arnold Labs 308 (Waterman St)
 | 09/17 (2)  | Alireza       |  Research: Update on Amp                                  |           |
 | 09/24 (1)  | Yin-Jia       |  Literature TBD                               |           |
 | 09/24 (2)  |               |                                                           |           |
-| 10/01 (1)  |               |                                                           |           |
+| 10/01 (1)  |     Seokki          |     Literature                                                      |           |
 | 10/01 (2)  |  Kai             |   Research Update                                                        |           |
 | 10/08 (1)  |               |                                                           |           |
 | 10/08 (2)  |   Allison     | Literature (TBD)                                          |           |
@@ -23,7 +23,7 @@ Thursdays, 4-6 pm, Arnold Labs 308 (Waterman St)
 | 10/22 (1)  |   Yin-Jia     | Research                                      |           |
 | 10/22 (2)  |    Rebecca    | Literature                                                |           |
 | 10/29 (1)  |  No meeting   |                                                           |           |
-| 11/05 (1)  |               |                                                           |           |
+| 11/05 (1)  |        Seokki       |     Reseaerch                                                      |           |
 | 11/05 (2)  |  Allison      | Research Update                                           |           |
 | 11/12 (1)  |  No meeting   |                                                           |           |
 | 11/19 (1)  |  Ryan         | Research: LOC and HDO                                     |           |
