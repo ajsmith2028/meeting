@@ -17,7 +17,7 @@ Thursdays, 4-6 pm, Arnold Labs 308 (Waterman St)
 | 10/01 (1)  |               |                                                           |           |
 | 10/01 (2)  |  Kai             |   Research Update                                                        |           |
 | 10/08 (1)  |               |                                                           |           |
-| 10/08 (2)  |               |                                                           |           |
+| 10/08 (2)  |   Allison     | Literature (TBD)                                          |           |
 | 10/15 (1)  |   Kai            |    Literature                                                       |           |
 | 10/15 (2)  |    Ryan       | Literature (TBD)                                          |           |
 | 10/22 (1)  |   Yin-Jia     | Research                                      |           |
