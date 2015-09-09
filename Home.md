@@ -24,7 +24,7 @@ Thursdays, 4-6 pm, Arnold Labs 308 (Waterman St)
 | 10/22 (2)  |    Rebecca    | Literature                                                |           |
 | 10/29 (1)  |  No meeting   |                                                           |           |
 | 11/05 (1)  |               |                                                           |           |
-| 11/05 (2)  |               |                                                           |           |
+| 11/05 (2)  |  Allison      | Research Update                                           |           |
 | 11/12 (1)  |  No meeting   |                                                           |           |
 | 11/19 (1)  |  Ryan         | Research: LOC and HDO                                     |           |
 | 11/19 (2)  |  Alireza      | Literature (TBD)                                          |           |
