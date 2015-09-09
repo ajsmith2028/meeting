@@ -8,7 +8,7 @@ Thursdays, 4-6 pm, Arnold Labs 308 (Waterman St)
 
 |   Date     |   Presenter   |   Talk Title                                              |   Notes   |
 | ---------- | ------------- | --------------------------------------------------------- | --------- |
-| 09/10 (1)  |               |                                                           |           |
+| 09/10 (1)  | Benjamin      |  Literature: Deactivation of Deoxygenation Catalysts      |           |
 | 09/10 (2)  |               |                                                           |           |
 | 09/17 (1)  | James         |  Literature                                               |           |
 | 09/17 (2)  | Alireza       |  Research: Update on Amp                                  |           |
