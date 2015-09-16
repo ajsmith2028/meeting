@@ -12,8 +12,7 @@ Thursdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 09/10 (2)  |               |                                                           |           |
 | 09/17 (1)  | James         |  Literature                                               |           |
 | 09/17 (2)  | Alireza       |  Research: Update on Amp                                  |           |
-| 09/24 (1)  | Yin-Jia       |  Literature TBD                               |           |
-| 09/24 (2)  | Martha        |  Research                                                         |           |
+| 09/24 (1)  | Martha        |  Research                                                         |           |
 | 10/01 (1)  |     Seokki          |     Literature                                                      |           |
 | 10/01 (2)  |  Kai             |   Research Update                                                        |           |
 | 10/08 (1)  |  Martha       | Literature                                                           |           |
