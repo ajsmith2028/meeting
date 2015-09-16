@@ -26,6 +26,7 @@ Thursdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 11/05 (1)  |        Seokki       |     Reseaerch                                                      |           |
 | 11/05 (2)  |  Allison      | Research Update                                           |           |
 | 11/12 (1)  |  Yuri  |             Research Update                                              |           |
+| 11/12 (2)  |  Yin-Jia         | Literature                                     |           |
 | 11/19 (1)  |  Ryan         | Research: LOC and HDO                                     |           |
 | 11/19 (2)  |  Alireza      | Literature (TBD)                                          |           |
 | 11/19 (3)  |  Benjamin     | Research: Deoxygenation                                   |           |
