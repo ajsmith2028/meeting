@@ -20,7 +20,7 @@ Thursdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 10/15 (2)  |    Ryan       | Literature (TBD)                                          |           |
 | 10/22 (1)  |   Yin-Jia     | Research                                      |           |
 | 10/22 (2)  |  Allison      | Literature
-| 10/29 (1)  |  Yuri  |  Literature                                                         |           |
+| 10/29 (1)  |  Yuri  |  Global Optimization for Neural Network Training                                                         |           |
 | 10/29 (2)  |    Rebecca    | Literature                                                |           |
 | 11/05 (1)  |        Seokki       |     Literature                                                      |           |
 | 11/05 (2)  |  Allison      | Research Update                                           |           |
