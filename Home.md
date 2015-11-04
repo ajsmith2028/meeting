@@ -22,7 +22,7 @@ Thursdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 10/22 (2)  |  Allison      | Literature
 | 10/29 (1)  |  Yuri  |  Global Optimization for Neural Network Training - Yi Shang & Benjamin Wah                                                        |           |
 | 10/29 (2)  |    Rebecca    | Literature                                                |           |
-| 11/05 (1)  |        Seokki       |     Literature                                                      |           |
+| 11/05 (1)  |    Seokki     | Enhanced electron penetration through an ultrathin graphene layer for highly efficient catalysis of the hydrogen evolution reaction, Angew. Chem. 54 (2015) 2100-2104             |           |
 | 11/05 (2)  |  Allison      | Research Update                                           |           |
 | 11/12 (1)  |  Yuri  |             Research Update                                              |           |
 | 11/12 (2)  |  Yin-Jia         | Literature                                     |           |
