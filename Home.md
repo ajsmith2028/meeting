@@ -27,7 +27,7 @@ Thursdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 11/12 (1)  |  Yuri  |             Research Update                                              |           |
 | 11/12 (2)  |  Yin-Jia         | Literature                                     |           |
 | 11/19 (1)  |  Ryan         | Research: LOC and HDO                                     |           |
-| 11/19 (2)  |  Alireza      | Literature (TBD)                                          |           |
+| 11/19 (2)  |  Alireza      | Literature: The free energy of mechanically unstable phases                                          |           |
 | 11/19 (3)  |  Benjamin     | Research: Deoxygenation                                   |           |
 | 11/26      | No Meeting    | ----------------                                          | Thanksgiving |
 | 12/03 (1)  |    Rebecca    | Research Update                                           |           |
