@@ -1,34 +1,15 @@
 # Group meeting schedule #
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
-**Fall 2015**  
+**Spring 2016**  
 Group Meeting Schedule  
 Thursdays, 4-6 pm, Arnold Labs 308A (Waterman St)  
 
+This spring we are taking a different format: everyone presents a very short talk at each meeting, with a maximum of two slides. These talks are meant to be free form and not strictly research updates; you can talk about something you learned in the literature or an idea you had for instance. You should select two items from the following list of categories and do one slide on each:
 
-|   Date     |   Presenter   |   Talk Title                                              |   Notes   |
-| ---------- | ------------- | --------------------------------------------------------- | --------- |
-| 09/10 (1)  | Benjamin      |  Literature: Deactivation of Deoxygenation Catalysts      |           |
-| 09/10 (2)  |               |                                                           |           |
-| 09/17 (1)  | James         |  Literature                                               |           |
-| 09/17 (2)  | Alireza       |  Research: Update on Amp                                  |           |
-| 09/24 (1)  | Martha        |  Research                                                         |           |
-| 10/01 (1)  |     Seokki          |    Research: Cu-Pd alloys for CO2 reduction                                                   |           |
-| 10/01 (2)  |  Kai             |   Research Update                                                        |           |
-| 10/08 (1)  |  Martha       | Literature                                                           |           |
-| 10/15 (1)  |   Kai            |    Literature                                                       |           |
-| 10/15 (2)  |    Ryan       | Literature (TBD)                                          |           |
-| 10/22 (1)  |   Yin-Jia     | Research                                      |           |
-| 10/22 (2)  |  Allison      | Literature
-| 10/29 (1)  |  Yuri  |  Global Optimization for Neural Network Training - Yi Shang & Benjamin Wah                                                        |           |
-| 10/29 (2)  |    Rebecca    | Literature                                                |           |
-| 11/05 (1)  |    Seokki     | Enhanced electron penetration through an ultrathin graphene layer for highly efficient catalysis of the hydrogen evolution reaction, Angew. Chem. 54 (2015) 2100-2104             |           |
-| 11/05 (2)  |  Allison      | Research Update                                           |           |
-| 11/12 (1)  |  Yuri  |             Research Update                                              |           |
-| 11/12 (2)  |  Yin-Jia         | Literature                                     |           |
-| 11/19 (1)  |  Ryan         | Research: LOC and HDO                                     |           |
-| 11/19 (2)  |  Alireza      | Literature: The free energy of mechanically unstable phases                                          |           |
-| 11/19 (3)  |  Benjamin     | Research: Deoxygenation                                   |           |
-| 11/26      | No Meeting    | ----------------                                          | Thanksgiving |
-| 12/03 (1)  |    Rebecca    | Research Update                                           |           |
-| 12/03 (2)  |    James      | Research Update                                           |           |
+* Something you learned (e.g., a new article you found, a different technique, a software trick, etc.)
+* Something that went well (e.g., new data, a paper submitted or published, etc.)
+* Something that you got stuck on (e.g., an unforeseen hiccup in lab work, etc.)
+* An idea you had, or something you are excited to try (e.g., an idea for a new experiment, a faster way to do data analysis, ...)
+
+Martha collects slides, so send her your two slides before 4pm.
