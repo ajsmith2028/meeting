@@ -20,14 +20,13 @@ Tuesdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 11/01 (2)  |               |                                                           |           |
 | 11/08 (1)  |               |                                                           |           |
 | 11/08 (2)  |               |                                                           |           |
-| 11/15 (1)  |               |                                                           |           |
+| 11/15 (1)  |     Xiao      |        Literature                                         |           |
 | 11/15 (2)  |               |                                                           |           |
 | 11/22 (1)  |               |                                                           |           |
 | 11/22 (2)  |               |                                                           |           |
 | 11/29 (1)  |   Alireza     |   Literature: TBD                                         |           |
 | 11/29 (2)  |               |                                                           |           |
-| 12/06 (1)  |               |                                                           |           |
+| 12/06 (1)  |    Xiao       |    Research                                               |           |
 | 12/06 (2)  |               |                                                           |           |
 | 12/13 (1)  |               |   Reading period -- no meetings                           |           |
 | 12/13 (2)  |               |   Reading period -- no meetings                           |           |
-
