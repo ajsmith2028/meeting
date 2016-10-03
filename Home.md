@@ -21,7 +21,7 @@ Tuesdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 11/08 (1)  |               |                                                           |           |
 | 11/08 (2)  |               |                                                           |           |
 | 11/15 (1)  |     Xiao      |        Literature                                         |           |
-| 11/15 (2)  |               |                                                           |           |
+| 11/15 (2)  |    Shubham    |        Literature                                                    |          
 | 11/22 (1)  |               |                                                           |           |
 | 11/22 (2)  |               |                                                           |           |
 | 11/29 (1)  |   Alireza     |   Literature: TBD                                         |           |
