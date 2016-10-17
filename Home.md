@@ -15,10 +15,10 @@ Tuesdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 10/18 (1)  |   Yin-Jia     |     Literature                                            |           |
 | 10/18 (2)  |               |                                                           |           |
 | 10/25 (1)  |    Kai        |   Literature                                              |           |
-| 10/25 (2)  |   Yin-Jia     |   Research                                                |           |
+| 10/25 (2)  |               |                                                           |           |
 | 11/01 (1)  |   Benjamin    |   Literature                                              |           |
 | 11/01 (2)  |               |                                                           |           |
-| 11/08 (1)  |               |                                                           |           |
+| 11/08 (1)  |    Yin-Jia    |    Research                                               |           |
 | 11/08 (2)  |               |                                                           |           |
 | 11/15 (1)  |     Xiao      |        Literature                                         |           |
 | 11/15 (2)  |    Shubham    |        Literature                                         |           |
