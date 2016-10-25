@@ -19,7 +19,7 @@ Tuesdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 11/01 (1)  |   Benjamin    |   Literature: Bio-templates for Li-Ion Battery Anodes     |           |
 | 11/01 (2)  |               |                                                           |           |
 | 11/08 (1)  |    Yin-Jia    |    Research                                               |           |
-| 11/08 (2)  |               |                                                           |           |
+| 11/08 (2)  |      Georg    |   Literature                                              |           |
 | 11/15 (1)  |     Xiao      |        Literature                                         |           |
 | 11/15 (2)  |    Shubham    |        Literature                                         |           |
 | 11/22 (1)  |   Benjamin    |   Research: Strain effects in thermochemical methanation  |           |
