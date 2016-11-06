@@ -23,7 +23,7 @@ Tuesdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 11/15 (1)  |     Xiao      |        Literature                                         |           |
 | 11/15 (2)  |    Shubham    |        Literature                                         |           |
 | 11/22 (1)  |   Benjamin    |   Research: Strain effects in thermochemical methanation  |           |
-| 11/22 (2)  |               |                                                           |           |
+| 11/22 (2)  |       Yin-Jia |                                                           |           |
 | 11/29 (1)  |   Alireza     |   Literature: TBD                                         |           |
 | 11/29 (2)  |               |                                                           |           |
 | 12/06 (1)  |    Xiao       |    Research                                               |           |
