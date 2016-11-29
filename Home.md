@@ -26,7 +26,6 @@ Tuesdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 11/22 (2)  |       Yin-Jia |                                                           |           |
 | 11/29 (1)  |   Georg       |   Literature: Computational chemistry applied to reactions in electrocatalysis |           |
 | 11/29 (2)  |               |                                                           |           |
-
 | 12/02 (1)  |   Muammar     |   Characterization of metallic and insulating properties of low-dimensional systems          |           |
 | 12/06 (1)  |    Xiao       |    Research                                               |           |
 | 12/06 (2)  |    Ju Ye      |                                                           |           |
