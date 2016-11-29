@@ -9,7 +9,7 @@ Tuesdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 |   Date     |   Presenter   |   Talk Title                                              |   Notes   |
 | ---------- | ------------- | --------------------------------------------------------- | --------- |
 | 10/04 (1)  |   Benjamin    |   Lab safety review                                       |           |
-| 10/04 (2)  |   JuYe Kim    |   [Title]                                                 |           |
+| 10/04 (2)  |   JuYe Kim    |   Previous Research                                       |           |
 | 10/11 (1)  |   Alireza     |   Research                                                |           |
 | 10/11 (2)  |    Kai        |  Research of strain effect in ORR                         |           |
 | 10/18 (1)  |   Yin-Jia     |     Literature                                            |           |
@@ -27,6 +27,6 @@ Tuesdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 11/29 (1)  |   Georg       |   Literature: Computational chemistry applied to reactions in electrocatalysis           |           |
 | 11/29 (2)  |   Muammar     |   Characterization of metallic and insulating properties of low-dimensional systems                                       |           |
 | 12/06 (1)  |    Xiao       |    Research                                               |           |
-| 12/06 (2)  |     Ju Ye     |    Research                                               |           |
+| 12/06 (2)  |    Ju Ye      |    Literature                                             |           |
 | 12/13 (1)  |               |   Reading period -- no meetings                           |           |
 | 12/13 (2)  |               |   Reading period -- no meetings                           |           |
