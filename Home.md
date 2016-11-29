@@ -28,5 +28,5 @@ Tuesdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 11/29 (2)  |   Muammar     |   Characterization of metallic and insulating properties of low-dimensional systems                                       |           |
 | 12/06 (1)  |    Xiao       |    Research                                               |           |
 | 12/06 (2)  |    Ju Ye      |    Literature                                             |           |
-| 12/13 (1)  |               |   Reading period -- no meetings                           |           |
+| 12/13 (1)  |   Alireza     |   Literature: Deep Residual Learning for Image Recognition                           |           |
 | 12/13 (2)  |               |   Reading period -- no meetings                           |           |
