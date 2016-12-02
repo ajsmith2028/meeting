@@ -28,6 +28,6 @@ Tuesdays, 4-6 pm, Arnold Labs 308A (Waterman St)
 | 11/29 (2)  |               |                                                           |           |
 | 12/02 (1)  |   Muammar     |   Characterization of metallic and insulating properties of low-dimensional systems          |           |
 | 12/06 (1)  |    Xiao       |    Research                                               |           |
-| 12/06 (2)  |    Ju Ye      |                                                           |           |
+| 12/06 (2)  |    Ju Ye      |   Literature: Enhancement of the Hydrogen Evolution Reaction from Ni-MoS2 ..|           |
 | 12/13 (1)  |   Alireza     |   Literature: Deep Residual Learning for Image Recognition                           |           |
 | 12/13 (2)  |               |   Reading period -- no meetings                           |           |
