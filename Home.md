@@ -1,6 +1,16 @@
 # Group meeting schedule #
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
+**Pre-Spring 2017**
+Group Meeting Schedule  
+Wednesday, 3-5 pm, Location TBD 
+
+|   Date     |   Presenter   |   Talk Title                                              |   Notes   |
+| ---------- | ------------- | --------------------------------------------------------- | --------- |
+| 1/11  |   Javad    |   Previous Research                                               |    |
+| 1/18  |   Andy     |   Addressing uncertainty in atomistic machine learning            |   |
+
+
 **Fall 2016**  
 Group Meeting Schedule  
 Tuesdays, 4-6 pm, Arnold Labs 308A (Waterman St)  
