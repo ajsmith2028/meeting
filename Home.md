@@ -2,17 +2,18 @@
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
 
-**Pre-Spring 2017**
-
-Wednesday, 3-5 pm, Arnold Labs 308A (Waterman St)
+**Pre-Spring 2017**  
+Wednesday, 3-5 pm  
+Arnold Labs 308A (Waterman St)
 
 |   Date     |   Presenter   |   Talk Title                                              |   Notes   |
 | ---------- | ------------- | --------------------------------------------------------- | --------- |
 | 1/11  |   Andy     |   Addressing uncertainty in atomistic machine learning            |  |
 | 1/18  |   Javad    |   Previous Research                                               |  |
 
-**Spring 2017**
-Thursday, 3-5 pm, Location TBD
+**Spring 2017**  
+Thursday, 3-5 pm  
+Arnold Labs 308A (Waterman St)
 
 We will follow the format from last spring with a slight modification: everyone presents a very short talk (10 min) at alternating meetings, with a maximum of two slides. These talks are meant to be free form and not strictly research updates; you can talk about something you learned in the literature or an idea you had, for instance. You should select two items from the following list of categories and do one slide on each:
 
@@ -25,22 +26,24 @@ Slides should be uploaded to the google drive by 3pm; we need a volunteer to bri
 
 We will also have research updates from those who did not get a chance last semester, sprinkled into to these meetings as noted.
 
-*Presenting Group A*
-Yin-Jia Zhang
-Per Lindgren
-Alison Managlia
-JuYe Kim
-Muammar El Khatib
-Shubham Sharma
+*Presenting Group A*  
+Yin-Jia Zhang  
+Per Lindgren  
+Alison Managlia  
+JuYe Kim  
+Muammar El Khatib  
+Shubham Sharma  
+Xiao Xiao
 
-*Presenting Group B*
-Ben Johnson
-Kai Yan
-Georg Kastlunger
-Alireza Khorshidi
-Kaley Brauer
-Andrew Peterson
+*Presenting Group B*  
+Ben Johnson  
+Kai Yan  
+Georg Kastlunger  
+Alireza Khorshidi  
+Kaley Brauer  
+Andrew Peterson  
 Javad Hashemi
+
 
 |   Date     |   Presenter   |   Talk Title                                              |   Notes   |
 | ---------- | ------------- | --------------------------------------------------------- | --------- |
