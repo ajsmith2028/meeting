@@ -48,6 +48,7 @@ Javad Hashemi
 |   Date     |   Presenter   |   Talk Title                                              |   Notes   |
 | ---------- | ------------- | --------------------------------------------------------- | --------- |
 | 1/26  |   Group A     |   -            |  |
+| 1/26  |   Georg Kastlunger     |  Tutorial on implicit solvation models |  |
 | 2/2  |   Group B     |   -            |  |
 | 2/9  |   Group A     |   -            |  |
 | 2/16  |   JuYe Kim     |   Research            |  |
