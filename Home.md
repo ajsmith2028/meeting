@@ -12,7 +12,7 @@ Arnold Labs 308A (Waterman St)
 | 1/18  |   Javad    |   Previous Research                                               |  |
 
 **Spring 2017**  
-Thursday, 3-5 pm  
+Thursday, 4-6 pm  
 Arnold Labs 308A (Waterman St)
 
 We will follow the format from last spring with a slight modification: everyone presents a very short talk (10 min) at alternating meetings, with a maximum of two slides. These talks are meant to be free form and not strictly research updates; you can talk about something you learned in the literature or an idea you had, for instance. You should select two items from the following list of categories and do one slide on each:
