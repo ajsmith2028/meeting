@@ -30,7 +30,7 @@ We will also have research updates from those who did not get a chance last seme
 Yin-Jia Zhang  
 Per Lindgren  
 Alison Managlia  
-JuYe Kim / Esben Kolsbjerg
+JuYe Kim / Esben Kolsbjerg  
 Muammar El Khatib  
 Shubham Sharma  
 Xiao Xiao
