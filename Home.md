@@ -26,7 +26,7 @@ Everybody should sign up for two talks during the semester:
 | 10/10  |        |   -            |  |
 | 10/10  |        |   -            |  |
 | 10/17  |        | Shubham             | Literature  |
-| 10/17  |        |   -            |  |
+| 10/17  |        |   Per            | Research Update |
 | 10/24  |        |   -            |  |
 | 10/24  |        |   -            |  |
 | 10/31  |        |   -            |  |
