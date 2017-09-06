@@ -19,7 +19,7 @@ Everybody should sign up for two talks during the semester:
 | 9/12  |        |   -            |  |
 | 9/19  |        |   -            |  |
 | 9/19  |        |   -            |  |
-| 9/26  |        |   -            |  |
+| 9/26  | Alireza|   Research update: Machine-learning of atomic forces             |  |
 | 9/26  |        |   -            |  |
 | 10/3  |        |   -            |  |
 | 10/3  |        |   -            |  |
@@ -27,7 +27,7 @@ Everybody should sign up for two talks during the semester:
 | 10/10  |        |   -            |  |
 | 10/17  |        | Shubham             | Literature  |
 | 10/17  |        |   Per            | Research Update |
-| 10/24  |        |   -            |  |
+| 10/24  | Alireza|   Literature: To be decided.             |  |
 | 10/24  |        |   -            |  |
 | 10/31  |        |   -            |  |
 | 10/31  |        |   -            |  |
