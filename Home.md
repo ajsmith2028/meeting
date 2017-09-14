@@ -32,9 +32,9 @@ Everybody should sign up for two talks during the semester:
 | 11/8  |        |   -            |  |
 | 11/15  |    Shubham     |      Research Update      |   |
 | 11/15  |        |   -            |  |
-| 11/22  |   Javad     | Research Update           |  |
+| 11/22  |   No meeting    |    Thanksgiving week        |  |
 | 11/22  |     No meeting   |   Thanksgiving week            |  |
 | 11/29  |   Muammar  |   -            |  |
-| 11/29  |      |   -            |  |
+| 11/29  |     Javad |  Research update            |  |
 | 12/6  |   Javad     |   Literature talk  |  |
 | 12/6  |        |   -            |  |
