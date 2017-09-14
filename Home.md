@@ -2,8 +2,8 @@
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
 **Fall 2017**  
-Tuesday, 3-5 pm  
-Barus & Holley 330
+Wednesdays, 3-5 pm  
+Arnold 308 B
 
 Everybody should sign up for two talks during the semester:
 
@@ -15,29 +15,27 @@ Everybody should sign up for two talks during the semester:
 
 |   Date     |   Presenter   |   Talk Title                                              |   Notes   |
 | ---------- | ------------- | --------------------------------------------------------- | --------- |
-| 9/12  |        |   -            |  |
-| 9/12  |        |   -            |  |
-| 9/19  |        |   -            |  |
-| 9/19  |        |   -            |  |
-| 9/26  | Alireza|   Research update: Machine-learning of atomic forces             |  |
-| 9/26  |        |   -            |  |
-| 10/3  |        |   -            |  |
-| 10/3  |        |   -            |  |
-| 10/10  |        |   -            |  |
-| 10/10  |        |   -            |  |
-| 10/17  |   Shubham       |  Literature          |   |
-| 10/17  |   Per     |    Research Update   | Saddle point searches in electrochemical reactions |
-| 10/24  | Alireza|   Literature: To be decided.             |  |
-| 10/24  |        |   -            |  |
-| 10/31  |        |   -            |  |
-| 10/31  |        |   -            |  |
-| 11/7  |        |   -            |  |
-| 11/7  |        |   -            |  |
-| 11/14  |    Shubham     |      Research Update      |   |
-| 11/14  |        |   -            |  |
-| 11/21  |        |   -            |  |
-| 11/21  |        |   -            |  |
-| 11/28  |        |   -            |  |
-| 11/28  |        |   -            |  |
-| 12/5  |        |   -            |  |
-| 12/5  |        |   -            |  |
+| 9/20  |        |   -            |  |
+| 9/20  |        |   -            |  |
+| 9/27  | Alireza|   Research update: Machine-learning of atomic forces             |  |
+| 9/27  |        |   -            |  |
+| 10/4  |        |   -            |  |
+| 10/4  |        |   -            |  |
+| 10/11  |        |   -            |  |
+| 10/11  |        |   -            |  |
+| 10/18  |   Shubham       |  Literature          |   |
+| 10/18  |   Per     |    Research Update   | Saddle point searches in electrochemical reactions |
+| 10/25  | Alireza|   Literature: To be decided.             |  |
+| 10/25  |        |   -            |  |
+| 11/01  |        |   -            |  |
+| 11/01  |        |   -            |  |
+| 11/8  |        |   -            |  |
+| 11/8  |        |   -            |  |
+| 11/15  |    Shubham     |      Research Update      |   |
+| 11/15  |        |   -            |  |
+| 11/22  |        |   -            |  |
+| 11/22  |        |   -            |  |
+| 11/29  |        |   -            |  |
+| 11/29  |        |   -            |  |
+| 12/6  |        |   -            |  |
+| 12/6  |        |   -            |  |
