@@ -21,7 +21,7 @@ Everybody should sign up for two talks during the semester:
 | 9/27  |        |   -            |  |
 | 10/4  |        |   -            |  |
 | 10/4  |        |   -            |  |
-| 10/11  |        |   -            |  |
+| 10/11  |   Georg     |   Literature            |  |
 | 10/11  |        |   -            |  |
 | 10/18  |   Shubham       |  Literature          |   |
 | 10/18  |   Per     |    Research Update   | Saddle point searches in electrochemical reactions |
@@ -29,7 +29,7 @@ Everybody should sign up for two talks during the semester:
 | 10/25  | Muammar       |   -            |  |
 | 11/01  |        |   -            |  |
 | 11/01  |        |   -            |  |
-| 11/8  |        |   -            |  |
+| 11/8  |   Georg     |   Research update            |  |
 | 11/8  |        |   -            |  |
 | 11/15  |    Shubham     |      Research Update      |   |
 | 11/15  |        |   -            |  |
