@@ -33,9 +33,9 @@ Everybody should sign up for two talks during the semester:
 | 11/8  |        |   -            |  |
 | 11/15  |    Shubham     |      Research Update      |   |
 | 11/15  |        |   -            |  |
-| 11/22  |        |   -            |  |
+| 11/22  |   Javad     | Research Update           |  |
 | 11/22  |        |   -            |  |
 | 11/29  |        |   -            |  |
-| 11/29  |        |   -            |  |
-| 12/6  |        |   -            |  |
+| 11/29  |      |   -            |  |
+| 12/6  |   Javad     |   Literature talk  |  |
 | 12/6  |        |   -            |  |
