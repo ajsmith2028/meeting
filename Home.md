@@ -31,7 +31,7 @@ Everybody should sign up for two talks during the semester:
 | 11/8  |   Georg     |   Research update            |  |
 | 11/8  |       Liepollo |   -Research update            |  |
 | 11/15  |    Shubham     |      Research Update      |   |
-| 11/15  |        |   -            |  |
+| 11/15  |    Amanda    |   Literature            |  |
 | 11/22  |   No meeting    |    Thanksgiving week        |  |
 | 11/22  |     No meeting   |   Thanksgiving week            |  |
 | 11/29  |   Muammar  |   -            |  |
