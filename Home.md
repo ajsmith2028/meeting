@@ -26,7 +26,7 @@ Everybody should sign up for two talks during the semester:
 | 10/18  |   Shubham       |  Literature          |   |
 | 10/18  |   Per     |    Research Update   | Saddle point searches in electrochemical reactions |
 | 10/25  | Alireza|   Literature: To be decided.             |  |
-| 10/25  | Muammar       |   -            |  |
+| 10/25  | Muammar       |   Literature           |  |
 | 11/01  |  No meeting      |   (Andy at AIChE all week)            |  |
 | 11/8  |   Georg     |   Research update            |  |
 | 11/8  |       Liepollo |   -Research update            |  |
@@ -34,7 +34,7 @@ Everybody should sign up for two talks during the semester:
 | 11/15  |    Amanda    |   Literature            |  |
 | 11/22  |   No meeting    |    Thanksgiving week        |  |
 | 11/22  |     No meeting   |   Thanksgiving week            |  |
-| 11/29  |   Muammar  |   -            |  |
+| 11/29  |   Muammar  |   Research Update            |  |
 | 11/29  |     Javad |  Research update            |  |
 | 12/6  |   Javad     |   Literature talk  |  |
 | 12/6  |       Liepollo |   -Literature talk            |  |
