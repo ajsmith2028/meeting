@@ -15,7 +15,7 @@ Everybody should sign up for two talks during the semester:
 
 |   Date     |   Presenter   |   Talk Title                                              |   Notes   |
 | ---------- | ------------- | --------------------------------------------------------- | --------- |
-| 9/20  |        |   -            |  |
+| 9/20  |   Andy     |   -            |  |
 | 9/20  |        |   -            |  |
 | 9/27  | Alireza|   Research update: Machine-learning of atomic forces             |  |
 | 9/27  |        |   -            |  |
