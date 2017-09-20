@@ -15,7 +15,7 @@ Everybody should sign up for two talks during the semester:
 
 |   Date     |   Presenter   |   Talk Title                                              |   Notes   |
 | ---------- | ------------- | --------------------------------------------------------- | --------- |
-| 9/20  |   Andy     |   -            |  |
+| 9/20  |   Andy     |   Literature           | Krishtalik. "Proton transfer in electrode reactions: Experimental test of two theoretical models", [Faraday Discussions 74:205 1982](doi.org/10.1039/DC9827400205). |
 | 9/20  |        |   -            |  |
 | 9/27  | Alireza|   Research update: Machine-learning of atomic forces             |  |
 | 9/27  |        |   -            |  |
