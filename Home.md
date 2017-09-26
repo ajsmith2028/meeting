@@ -20,7 +20,6 @@ Everybody should sign up for two talks during the semester:
 | 9/27  | Alireza|   Research update: Machine-learning of atomic forces             |  |
 | 9/27  |        |   -            |  |
 | 10/4  | Joint meeting       |   -            | With Rosenstein group |
-| 10/4  |        |   -            |  |
 | 10/11  |   Georg     |   Literature            |  |
 | 10/11  |   Per     |     Literature            |  |
 | 10/18  |   Shubham       |  Literature          |   |
