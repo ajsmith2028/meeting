@@ -23,7 +23,7 @@ Everybody should sign up for two talks during the semester:
 | 10/4  | Joint meeting       |   -            | With Rosenstein group |
 | 10/11  |   Georg     |   Literature            |  |
 | 10/11  |   Per     |     Literature            | F. Abild-Pedersen et al. "Scaling Properties of Adsorption Energies for Hydrogen-Containing Molecules on Transition-Metal Surfaces", [PRL 99, 016105 (2007)](http://link.aps.org/doi/10.1103/PhysRevLett.99.016105) |
-| 10/18  |   Shubham       |  Literature          |  Escaping the Free Energy Minima |
+| 10/18  |   Shubham       |  Literature          |  Escaping the Free Energy Minima , doi:  10.1073/pnas.202427399|
 | 10/18  |   Per     |    Research Update   | Saddle point searches in electrochemical reactions |
 | 10/25  | Alireza|   Literature | To be decided.    |
 | 10/25  | Muammar       |   Literature           |  |
