@@ -3,8 +3,8 @@
 
 **Fall 2017**  
 Wednesdays, 3-5 pm  
-ERC 225 **starting Oct 25**
-Arnold 308 B
+ERC 225 **starting Oct 25**  
+Arnold 308 B  **until Oct 18**
 
 Everybody should sign up for two talks during the semester:
 
