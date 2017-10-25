@@ -26,7 +26,7 @@ Everybody should sign up for two talks during the semester:
 | 10/18  |   Shubham       |  Literature          |  Escaping the Free Energy Minima , doi:  10.1073/pnas.202427399|
 | 10/18  |   Per     |    Research Update   | Saddle point searches in electrochemical reactions |
 | 10/25  | Alireza|   Literature | Why gold is the noblest of all the metals. |
-| 10/25  | Muammar       |   Literature           |  |
+| 10/25  | Muammar       |   Literature           | L. Pauling, “The Nature Of The Chemical Bond. IV. The Energy Of Single Bonds And The Relative Electronegativity Of Atoms,” J. Am. Chem. Soc., vol. 54, no. 9, pp. 3570–3582, Sep. 1932. |
 | 11/01  |  No meeting      | - |  (Andy at AIChE all week)  |
 | 11/8  | Georg     |   Research update            |  |
 | 11/8  | Liepollo |   Literature talk          |  |
