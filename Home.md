@@ -29,11 +29,11 @@ Everybody should sign up for two talks during the semester:
 | 10/25  | Muammar       |   Literature           |  |
 | 11/01  |  No meeting      | - |  (Andy at AIChE all week)  |
 | 11/8  | Georg     |   Research update            |  |
-| 11/8  | Liepollo |   Research update            |  |
+| 11/8  | Liepollo |   Literature talk          |  |
 | 11/15  | Shubham     |      Research Update      |   |
 | 11/15  | Amanda    |   Literature            |  |
 | 11/22  | No meeting    | - | (Thanksgiving week)  |
 | 11/29  | Muammar  |   Research Update            |  |
 | 11/29  | Javad |  Research update            |  |
 | 12/6  | Javad     |   Literature  |  |
-| 12/6  | Liepollo |   Literature            |  |
+| 12/6  | Liepollo |  Research update  |  |
