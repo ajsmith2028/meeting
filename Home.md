@@ -34,6 +34,6 @@ Everybody should sign up for two talks during the semester:
 | 11/15  | Amanda    |   Literature            | Hori, Yoshio, et al. “Production Of Co And Ch4In Electrochemical Reduction Of Co2At Metal Electrodes In Aqueous Hydrogencarbonate Solution.” Chemistry Letters, vol. 14, no. 11, May 1985, pp. 1695–1698., doi:10.1246/cl.1985.1695. |
 | 11/22  | No meeting    | - | (Thanksgiving week)  |
 | 11/29  | Muammar  |   Research Update            |  |
-| 11/29  | Javad |  Research update            |  |
-| 12/6  | Javad     |   Literature  |  |
+| 11/29  | Javad |  Literature            |  |
+| 12/6  | Javad     |  Research update   |  |
 | 12/6  | Liepollo |  Research update  |  |
