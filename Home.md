@@ -1,39 +1,32 @@
 # Group meeting schedule #
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
-**Fall 2017**  
-Wednesdays, 3-5 pm  
-ERC 225 **starting Oct 25**  
-Arnold 308 B  **until Oct 18**
+**Spring 2018**  
+Mondays, 11 am -2 pm  
+ERC 225 (on Feb 26: BH 312)
 
-Everybody should sign up for two talks during the semester:
+In weeks one and two, our new group members will present their previous research. Xi and Cheng will present on 1/29, and Jongyoon on 2/5.
 
-1. A research update.
-2. A review of a "classic" journal article of your choice, that in your opinion changed how people think about something important to our research.
+Starting with the second half of 2/5, we will follow the format from last spring. Everyone presents a very short talk (10 min) at alternating meetings, with a maximum of two slides. These talks are meant to be free form and not strictly research updates; you can talk about something you learned in the literature or an idea you had, for instance. You should select two items from the following list of categories and do one slide on each:
 
-(Up to two talks per week.)
+* Something you learned or can teach us (e.g., a new article you found, a different technique, a software trick, etc.)
+* Something that went well (e.g., new data, a paper submitted or published, etc.)
+* Something that you got stuck on (e.g., an unforeseen hiccup in lab work, etc.)
+* An idea you had, or something you are excited to try (e.g., an idea for a new experiment, a faster way to do data analysis, ...)
+
+Slides should be uploaded to the google drive by 3pm; we need a volunteer to bring the projector and laptop.
+
+*Presenting Group A*  
+Per Lindgren  
+Muammar El Khatib  
+Shubham Sharma  
+Jongyoon Bae  
+Amanda Morel  
 
 
-|   Date     |   Presenter   |   Talk Title                                              |   Notes   |
-| ---------- | ------------- | --------------------------------------------------------- | --------- |
-| 9/20  |   Andy     |   Literature           | Krishtalik. "Proton transfer in electrode reactions: Experimental test of two theoretical models", [Faraday Discussions 74:205 1982](http://doi.org/10.1039/DC9827400205). |
-| 9/20  |        |   -            |  |
-| 9/27  | Alireza|   Research Update     | Machine-learning of atomic forces  |
-| 9/27  |        |   -            |  |
-| 10/4  | Joint meeting       |   -            | With Rosenstein group |
-| 10/11  |   Georg     |   Literature            |  |
-| 10/11  |   Per     |     Literature            | F. Abild-Pedersen et al. "Scaling Properties of Adsorption Energies for Hydrogen-Containing Molecules on Transition-Metal Surfaces", [PRL 99, 016105 (2007)](http://link.aps.org/doi/10.1103/PhysRevLett.99.016105) |
-| 10/18  |   Shubham       |  Literature          |  Escaping the Free Energy Minima , doi:  10.1073/pnas.202427399|
-| 10/18  |   Per     |    Research Update   | Saddle point searches in electrochemical reactions |
-| 10/25  | Alireza|   Literature | Why gold is the noblest of all the metals. |
-| 10/25  | Muammar       |   Literature           | L. Pauling, “The Nature Of The Chemical Bond. IV. The Energy Of Single Bonds And The Relative Electronegativity Of Atoms,”[ J. Am. Chem. Soc., vol. 54, no. 9, pp. 3570–3582, Sep. 1932](http://pubs.acs.org/doi/abs/10.1021/ja01348a011). |
-| 11/01  |  No meeting      | - |  (Andy at AIChE all week)  |
-| 11/8  | Georg     |   Research update            |  |
-| 11/8  | Liepollo |   Literature talk          |  |
-| 11/15  | Shubham     |      Research Update      |   |
-| 11/15  | Amanda    |   Literature            | Hori, Yoshio, et al. “Production Of Co And Ch4In Electrochemical Reduction Of Co2At Metal Electrodes In Aqueous Hydrogencarbonate Solution.” Chemistry Letters, vol. 14, no. 11, May 1985, pp. 1695–1698., doi:10.1246/cl.1985.1695. |
-| 11/22  | No meeting    | - | (Thanksgiving week)  |
-| 11/29  | Muammar  |   Research Update            |  |
-| 11/29  | Javad |  Literature            |  |
-| 12/6  | Javad     |  Research update   |  |
-| 12/6  | Liepollo |  Research update  |  |
+*Presenting Group B*  
+Georg Kastlunger  
+Javad Hashemi  
+Xi Chen  
+Cheng Zeng  
+Liepollo Monaheng
