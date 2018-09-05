@@ -18,7 +18,7 @@ Everybody should sign up for two talks during the semester:
 | 9/12       |               |                                                           |
 | 9/19       | Amanda Morel  | Literature Review                                         |
 | 9/26       | Cheng Zeng    |  Literature Review                                        |
-| 10/3       | M. El Khatib  |                                                           |
+| 10/3       | M. El Khatib, Javad |                                                           |
 | 10/10      | Xi Chen       | Literature Review                                         |
 | 10/17      |               |                                                           |
 | 10/24      | Shubham Sharma| Research Update                    |
