@@ -19,11 +19,11 @@ Everybody should sign up for two talks during the semester:
 | 9/19       |               |                                                           |
 | 9/26       | Cheng Zeng    |  Literature Review                                        |
 | 10/3       | M. El Khatib  |                                                           |
-| 10/10      | Cheng Zeng    |  Research Update                                          |
+| 10/10      |               |                                                           |
 | 10/17      |               |                                                           |
 | 10/24      | Shubham Sharma| Research Update (ORR with Barriers)                       |
 | 10/31      |               |                                                           |
-| 11/7       |               |                                                           |
+| 11/7       |  Cheng Zeng   |        Research Update                                    |
 | 11/14      |               |                                                           |
 | 11/21      | No meeting    |  (Thanksgiving)                                           |
 | 11/28      | Shubham Sharma| Literature Review (To be decided)                         |
