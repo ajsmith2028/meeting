@@ -21,7 +21,7 @@ Everybody should sign up for two talks during the semester:
 | 10/3       | M. El Khatib  |                                                           |
 | 10/10      |               |                                                           |
 | 10/17      |               |                                                           |
-| 10/24      | Shubham Sharma| Research Update (ORR with Barriers)                       |
+| 10/24      | Shubham Sharma| Research Update                    |
 | 10/31      |               |                                                           |
 | 11/7       |  Cheng Zeng   |        Research Update                                    |
 | 11/14      |               |                                                           |
