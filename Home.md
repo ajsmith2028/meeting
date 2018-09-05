@@ -1,32 +1,31 @@
 # Group meeting schedule #
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
-**Spring 2018**  
-Mondays, 11 am -2 pm  
-ERC 225 (on Feb 26: BH 312)
+**Fall 2018**  
+Wednesdays, 12 pm - 2 pm  
+ERC 225
 
-In weeks one and two, our new group members will present their previous research. Xi and Cheng will present on 1/29, and Jongyoon on 2/5.
+Everybody should sign up for two talks during the semester:
 
-Starting with the second half of 2/5, we will follow the format from last spring. Everyone presents a very short talk (10 min) at alternating meetings, with a maximum of two slides. These talks are meant to be free form and not strictly research updates; you can talk about something you learned in the literature or an idea you had, for instance. You should select two items from the following list of categories and do one slide on each:
+1. A research update.
+2. A review of a "classic" journal article of your choice, that in your opinion changed how people think about something important to our research.
 
-* Something you learned or can teach us (e.g., a new article you found, a different technique, a software trick, etc.)
-* Something that went well (e.g., new data, a paper submitted or published, etc.)
-* Something that you got stuck on (e.g., an unforeseen hiccup in lab work, etc.)
-* An idea you had, or something you are excited to try (e.g., an idea for a new experiment, a faster way to do data analysis, ...)
-
-Slides should be uploaded to the google drive by 3pm; we need a volunteer to bring the projector and laptop.
-
-*Presenting Group A*  
-Per Lindgren  
-Muammar El Khatib  
-Shubham Sharma  
-Jongyoon Bae  
-Amanda Morel  
+(Up to two talks per week.)
 
 
-*Presenting Group B*  
-Georg Kastlunger  
-Javad Hashemi  
-Xi Chen  
-Cheng Zeng  
-Liepollo Monaheng
+|   Date     |   Presenter   |   Talk Title                                              |
+| ---------- | ------------- | --------------------------------------------------------- |
+| 9/12       |               |                                                           |
+| 9/19       |               |                                                           |
+| 9/26       |               |                                                           |
+| 10/3       |               |                                                           |
+| 10/10      |               |                                                           |
+| 10/17      |               |                                                           |
+| 10/24      |               |                                                           |
+| 10/31      |               |                                                           |
+| 11/7       |               |                                                           |
+| 11/14      |               |                                                           |
+| 11/21      | No meeting    |  (Thanksgiving)                                           |
+| 11/28      |               |                                                           |
+| 12/5       |               |                                                           |
+| 12/12      | No meeting    |  (Reading period)                                         |
