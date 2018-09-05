@@ -16,7 +16,7 @@ Everybody should sign up for two talks during the semester:
 |   Date     |   Presenter   |   Talk Title                                              |
 | ---------- | ------------- | --------------------------------------------------------- |
 | 9/12       |               |                                                           |
-| 9/19       |               |                                                           |
+| 9/19       | Amanda Morel  | Literature Review                                         |
 | 9/26       | Cheng Zeng    |  Literature Review                                        |
 | 10/3       | M. El Khatib  |                                                           |
 | 10/10      |               |                                                           |
@@ -24,7 +24,7 @@ Everybody should sign up for two talks during the semester:
 | 10/24      | Shubham Sharma| Research Update                    |
 | 10/31      |               |                                                           |
 | 11/7       |  Cheng Zeng   |        Research Update                                    |
-| 11/14      |               |                                                           |
+| 11/14      | Amanda Morel  | Research Update                                           |
 | 11/21      | No meeting    |  (Thanksgiving)                                           |
 | 11/28      | Shubham Sharma| Literature Review (To be decided)                         |
 | 12/5       |               |                                                           |
