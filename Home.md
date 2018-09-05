@@ -8,7 +8,7 @@ ERC 225
 Everybody should sign up for two talks during the semester:
 
 1. A research update.
-2. A review of a "classic" journal article of your choice, that in your opinion changed how people think about something important to our research.
+2. A review of any journal article of your choice, that you find important and interesting.
 
 (Up to two talks per week.)
 
