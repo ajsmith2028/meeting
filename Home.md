@@ -17,9 +17,9 @@ Everybody should sign up for two talks during the semester:
 | ---------- | ------------- | --------------------------------------------------------- |
 | 9/12       |               |                                                           |
 | 9/19       |               |                                                           |
-| 9/26       |               |                                                           |
+| 9/26       | Cheng Zeng    |  Literature Review                                        |
 | 10/3       |               |                                                           |
-| 10/10      |               |                                                           |
+| 10/10      | Cheng Zeng    |  Research Update                                          |
 | 10/17      |               |                                                           |
 | 10/24      | Shubham Sharma| Research Update (ORR with Barriers)                       |
 | 10/31      |               |                                                           |
