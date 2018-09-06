@@ -20,9 +20,9 @@ Everybody should sign up for two talks during the semester:
 | 9/26       | Cheng Zeng, Per |  Literature Review x 2, PL: **S. Fletcher, Tafel slopes for first principles**                                        |
 | 10/3       | M. El Khatib, Javad |                                                           |
 | 10/10      | Xi Chen       | Literature Review                                         |
-| 10/17      | Per           | Research update                                           |
+| 10/17      | Per, Jongyoon | Research update, Literature Review                        |
 | 10/24      | Shubham Sharma| Research Update                    |
-| 10/31      | Jongyoon Bae  | Research Update                                           |
+| 10/31      | Jongyoon      | Research Update                                           |
 | 11/7       |  Cheng Zeng   |        Research Update                                    |
 | 11/14      | Amanda Morel  | Research Update                                           |
 | 11/21      | No meeting    |  (Thanksgiving)                                           |
