@@ -22,7 +22,7 @@ Everybody should sign up for two talks during the semester:
 | 10/10      | Xi Chen       | Literature Review                                         |
 | 10/17      | Per           | Research update                                           |
 | 10/24      | Shubham Sharma| Research Update                    |
-| 10/31      |               |                                                           |
+| 10/31      | Jongyoon Bae  | Research Update                                           |
 | 11/7       |  Cheng Zeng   |        Research Update                                    |
 | 11/14      | Amanda Morel  | Research Update                                           |
 | 11/21      | No meeting    |  (Thanksgiving)                                           |
