@@ -16,14 +16,14 @@ Everybody should sign up for two talks during the semester:
 |   Date     |   Presenter   |   Talk Title                                              |
 | ---------- | ------------- | --------------------------------------------------------- |
 | 9/12       | Gus Herlihy   | Research Update                                           |
-| 9/19       | Amanda Morel  | Literature Review                                         |
+| 9/19       | Amanda Morel, Georg  | Literature Review, Research update                                         |
 | 9/26       | Cheng Zeng, Per |  Literature Review x 2, PL: **S. Fletcher, Tafel slopes for first principles**                                        |
 | 10/3       | M. El Khatib, Javad |                                                           |
 | 10/10      | Xi Chen       | Literature Review                                         |
 | 10/17      | Per, Jongyoon | Research update, Literature Review                        |
-| 10/24      | Shubham Sharma| Research Update                    |
-| 10/31      | Jongyoon      | Research Update                                           |
-| 11/7       |  Cheng Zeng   |        Research Update                                    |
+| 10/24      | Shubham Sharma| Research Update                                           |
+| 10/31      | Jongyoon, Georg | Research Update, Literature Review                      |
+| 11/7       |  Cheng Zeng   | Research Update                                           |
 | 11/14      | Amanda Morel  | Research Update                                           |
 | 11/21      | No meeting    |  (Thanksgiving)                                           |
 | 11/28      | Shubham Sharma| Literature Review (To be decided)                         |
