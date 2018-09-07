@@ -15,7 +15,7 @@ Everybody should sign up for two talks during the semester:
 
 |   Date     |   Presenter   |   Talk Title                                              |
 | ---------- | ------------- | --------------------------------------------------------- |
-| 9/12       |               |                                                           |
+| 9/12       | Gus Herlihy   | Research Update                                           |
 | 9/19       | Amanda Morel  | Literature Review                                         |
 | 9/26       | Cheng Zeng, Per |  Literature Review x 2, PL: **S. Fletcher, Tafel slopes for first principles**                                        |
 | 10/3       | M. El Khatib, Javad |                                                           |
