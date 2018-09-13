@@ -17,7 +17,7 @@ Everybody should sign up for two talks during the semester:
 | ---------- | ------------- | --------------------------------------------------------- |
 | 9/12       | Gus Herlihy   | Research Update                                           |
 | 9/19       | Amanda Morel, Georg  | Literature Review, Research update                                         |
-| 9/26       | Cheng Zeng, Per |  Literature Review x 2,PL: **S. Fletcher, Tafel slopes for first principles**,  CZ: F. Calle-Vallejo et al. "Physical and Chemical Nature of the Scaling Relations between Adsorption Energies of Atoms on Metal Surfaces", [Phys. Rev. Lett. 108, 116103]                                       |
+| 9/26       | Cheng Zeng, Per |  Literature Review x 2,PL: **S. Fletcher, Tafel slopes for first principles**,  CZ: F. Calle-Vallejo et al. "Physical and Chemical Nature of the Scaling Relations between Adsorption Energies of Atoms on Metal Surfaces", [Phys. Rev. Lett. 108, 116103](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.116103).                                      |
 | 10/3       | M. El Khatib, Javad |                                                           |
 | 10/10      | Xi Chen       | Literature Review                                         |
 | 10/17      | Per, Jongyoon | Research update, Literature Review                        |
