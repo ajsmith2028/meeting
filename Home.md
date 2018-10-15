@@ -20,10 +20,10 @@ Everybody should sign up for two talks during the semester:
 | 9/26       | Cheng Zeng, Per |  Literature Review x 2,PL: **S. Fletcher, Tafel slopes for first principles**,  CZ: F. Calle-Vallejo et al. "Physical and Chemical Nature of the Scaling Relations between Adsorption Energies of Atoms on Metal Surfaces", [Phys. Rev. Lett. 108, 116103](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.116103).                                      |
 | 10/3       | M. El Khatib,   Xi|Literature Review: Bayesian Inference /Literature Review, Xi: "Generalized Neural-Network Representation of High-Dimensional Potential-Energy Surfaces" [Phys. Rev. Lett. 98, 146401]                                                 |
 | 10/10      |        |                                          |
-| 10/17      | Per, Jongyoon | Research update, Literature Review                        |
+| 10/17      | Per           | Research update, Literature Review                        |
 | 10/24      | Shubham Sharma, Javad| Research Update                                           |
 | 10/31      | Jongyoon, Georg | Research Update, Literature Review                      |
-| 11/7       |  Cheng Zeng   | Research Update                                           |
+| 11/7       |  Cheng Zeng, Jongyoon   | Research Update, Literature Review              |
 | 11/14      | Amanda Morel  | Research Update                                           |
 | 11/21      | No meeting    |  (Thanksgiving)                                           |
 | 11/28      | Shubham Sharma| Literature Review (To be decided)                         |
