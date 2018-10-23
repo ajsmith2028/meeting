@@ -22,10 +22,10 @@ Everybody should sign up for two talks during the semester:
 | 10/10      |        |                                          |
 | 10/17      | Per           | Research update                                           |
 | 10/24      | Shubham Sharma, Javad| Research Update                                           |
-| 10/31      | Jongyoon, Georg | Research Update, Literature Review                      |
+| 10/31      | Jongyoon | Research Update                      |
 | 11/7       |  Cheng Zeng, Jongyoon   | Research Update, Literature Review              |
 | 11/14      | Amanda Morel  | Research Update                                           |
 | 11/21      | No meeting    |  (Thanksgiving)                                           |
-| 11/28      | Shubham Sharma| Literature Review (To be decided)                         |
+| 11/28      | Shubham Sharma, Georg| Literature Review (To be decided), Literature Review     |
 | 12/5       | Xi Chen       | Research Update                                           |
 | 12/12      | No meeting    |  (Reading period)                                         |
