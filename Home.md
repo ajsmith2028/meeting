@@ -25,7 +25,7 @@ Everybody should sign up for two talks during the semester:
 | 10/31      | Jongyoon | Research Update                      |
 | 11/7       |  Cheng Zeng, Jongyoon   | Research Update, Literature Review              |
 | 11/14      | Amanda Morel  | Research Update                                           |
-| 11/14      | David Lu      | Summer Research Update                                    |
+|       | David Lu      | Summer Research Update                                    |
 | 11/21      | No meeting    |  (Thanksgiving)                                           |
 | 11/28      | Shubham Sharma, Georg| Literature Review (To be decided), Literature Review     |
 | 12/5       | Xi Chen       | Research Update                                           |
