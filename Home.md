@@ -6,7 +6,7 @@ Wednesdays, 1 pm - 3 pm
 ERC 225 (on Feb 13: ERC 250)
 
 
-We will follow our annual spring format. Everyone presents a very short talk (10 min) at alternating meetings, with a maximum of two slides. These talks are meant to be free form and not strictly research updates; you can talk about something you learned in the literature or an idea you had, for instance. You should select two items from the following list of categories and do one slide on each:
+We will follow our annual spring format. Everyone presents a very short talk (10 min) at alternating meetings, with a maximum of two slides. These talks are meant to be free form and not strictly research updates; you can talk about something you learned in the literature or an idea you had, for instance. You should select one or two items from the following list of categories:
 
 * Something you learned or can teach us (e.g., a new article you found, a different technique, a software trick, etc.)
 * Something that went well (e.g., new data, a paper submitted or published, etc.)
