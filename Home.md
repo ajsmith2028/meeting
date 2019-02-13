@@ -13,7 +13,7 @@ We will follow our annual spring format. Everyone presents a very short talk (10
 * Something that you got stuck on (e.g., an unforeseen hiccup in lab work, etc.)
 * An idea you had, or something you are excited to try (e.g., an idea for a new experiment, a faster way to do data analysis, ...)
 
-Slides should be uploaded to the google drive by 3pm; we need a volunteer to bring the projector and laptop.
+Slides should be uploaded to the google drive by 3pm; we need a volunteer to bring a laptop.
 
 We'll assign two groups before the first meeting; these are:
 
