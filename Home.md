@@ -15,4 +15,16 @@ We will follow our annual spring format. Everyone presents a very short talk (10
 
 Slides should be uploaded to the google drive by 3pm; we need a volunteer to bring the projector and laptop.
 
-We'll assign two groups before the first meeting.
+We'll assign two groups before the first meeting; these are:
+
+## Group A ##
+(Feb 6 and alternating Wednesdays)
+
+Aaron Deskins
+Xi Chen
+Cheng Zeng
+Shubham Sharma
+Per Lindgren
+
+## Group B ##
+(Feb 13 and alternating Wednesdays)
