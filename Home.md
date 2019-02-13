@@ -20,10 +20,10 @@ We'll assign two groups before the first meeting; these are:
 ## Group A ##
 (Feb 6 and alternating Wednesdays)
 
-Aaron Deskins
-Xi Chen
-Cheng Zeng
-Shubham Sharma
+Aaron Deskins  
+Xi Chen  
+Cheng Zeng  
+Shubham Sharma  
 Per Lindgren
 
 ## Group B ##
