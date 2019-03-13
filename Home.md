@@ -29,7 +29,7 @@ Per Lindgren
 ## Group B ##
 (Feb 13 and alternating Wednesdays)
 
-Georg Kastlunger
+Georg Kastlunger  
 Amanda Morel  
 David Lu  
 Andrew Peterson  
