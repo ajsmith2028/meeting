@@ -15,5 +15,6 @@ ERC 250
 |   Date     |   Presenter   |   Talk Title                                              |
 | ---------- | ------------- | --------------------------------------------------------- |
 | 9/24       |  Andy Peterson  | Brief explanation of adsorbate--potential link (15 min)  |
-|            |  Cheng Zeng  |  Literature talk  |
-|            |  Jiefeng Diao  | Research talk  |
+|            |  Cheng Zeng     |  Literature talk  |
+|            |  Jiefeng Diao   | Research talk  |
+|10/1        | Shubham Sharma  | Literature: Removing External Degrees of Freedom from Transition-State Search Methods using Quaternions |
