@@ -14,4 +14,6 @@ ERC 250
 
 |   Date     |   Presenter   |   Talk Title                                              |
 | ---------- | ------------- | --------------------------------------------------------- |
-| 9/24       |  Cheng Zeng             |          Literature talk                        |
+| 9/24       |  Andy Peterson  | Brief explanation of adsorbate--potential link (15 min)  |
+|            |  Cheng Zeng  |  Literature talk  |
+|            |  Jiefeng Diao  | Research talk  |
