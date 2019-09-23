@@ -18,8 +18,9 @@ ERC 250
 |            |  Cheng Zeng     |  Literature talk  |
 |            |  Jiefeng Diao   | Research talk  |
 |10/8        | Shubham Sharma  | Literature: Removing External Degrees of Freedom from Transition-State Search Methods using Quaternions |
-|10/22       | Jongyoon Bae    | Research talk  |
-|10/29       | Jongyoon Bae    | Literature talk  |
+|10/22       | Jongyoon Bae    | Research talk  | 
+|10/29       | Jongyoon Bae    | Literature talk | 
+|            | Cheng Zeng      | Research update | 
 |11/5        | Per Lindgren    | Research: Scaled and Dynamic Optimizations of Nudged Elastic Bands |
 |11/5        | Shubham Sharma  | Research: Potential Dependent ORR Barriers |
 |11/12       | Xi Chen         | Literature talk  |
