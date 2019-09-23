@@ -20,3 +20,4 @@ ERC 250
 |10/8        | Shubham Sharma  | Literature: Removing External Degrees of Freedom from Transition-State Search Methods using Quaternions |
 |10/22       | Jongyoon Bae    | Research talk  |
 |10/29       | Jongyoon Bae    | Literature talk  |
+|11/5        | Per Lindgren    | Research: Scaled and Dynamic Optimizations of Nudged Elastic Bands |
