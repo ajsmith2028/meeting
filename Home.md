@@ -21,3 +21,5 @@ ERC 250
 |10/22       | Jongyoon Bae    | Research talk  |
 |10/29       | Jongyoon Bae    | Literature talk  |
 |11/5        | Per Lindgren    | Research: Scaled and Dynamic Optimizations of Nudged Elastic Bands |
+|11/12       | Xi Chen         | Literature talk  |
+|11/19       | Xi Chen         | Research talk  |
