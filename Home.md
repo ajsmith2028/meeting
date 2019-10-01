@@ -20,6 +20,7 @@ ERC 250
 |10/8        | Shubham Sharma  | Literature: Removing External Degrees of Freedom from Transition-State Search Methods using Quaternions |
 |           |  Cheng Zeng   |  GPAW test: force-consistent energy *versus* extrapolated energy  |
 |10/22       | Jongyoon Bae    | Research talk  | 
+| | David Lu | Lit Talk
 |10/29       | Jongyoon Bae    | Literature talk | 
 |            | Cheng Zeng      | Research update | 
 |11/5        | Per Lindgren    | Research: Scaled and Dynamic Optimizations of Nudged Elastic Bands |
