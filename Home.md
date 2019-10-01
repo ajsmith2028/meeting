@@ -17,10 +17,11 @@ ERC 250
 | 9/24       |  Andy Peterson  | Brief explanation of adsorbate--potential link (15 min)  |
 |            |  Cheng Zeng     |  Literature talk: [Automatic selection of atomic fingerprints and reference configurations for machine-learning potentials](https://aip.scitation.org/doi/10.1063/1.5024611)  |
 |            |  Jiefeng Diao   | Research talk  |
+| 10/1|David Lu | Lit Talk: https://pubs.acs.org/doi/pdf/10.1021/jacs.5b03329
 |10/8        | Shubham Sharma  | Literature: Removing External Degrees of Freedom from Transition-State Search Methods using Quaternions |
 |           |  Cheng Zeng   |  GPAW test: force-consistent energy *versus* extrapolated energy  |
 |10/22       | Jongyoon Bae    | Research talk  | 
-| | David Lu | Lit Talk: https://pubs.acs.org/doi/pdf/10.1021/jacs.5b03329
+
 |10/29       | Jongyoon Bae    | Literature talk | 
 |            | Cheng Zeng      | Research update | 
 |11/5        | Per Lindgren    | Research: Scaled and Dynamic Optimizations of Nudged Elastic Bands |
