@@ -25,7 +25,7 @@ ERC 250
 |10/29       | Jongyoon Bae    | Literature talk | 
 |            | Cheng Zeng      | Research update | 
 |11/5        | Per Lindgren    | Research: Scaled and Dynamic Optimizations of Nudged Elastic Bands |
-|11/5        | Shubham Sharma  | Research: Potential Dependent ORR Barriers |
+|            | Shubham Sharma  | Research: Potential Dependent ORR Barriers |
 |11/12       | Xi Chen         | Literature talk  |
 |            | David Lu       | Research update |
 |11/19       | Xi Chen         | Research talk  |
