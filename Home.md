@@ -28,6 +28,5 @@ ERC 250
 |11/19       | Xi Chen         | Literature talk  |
  |           | David Lu       | Research update |
 |11/26            | Shubham Sharma | Research talk |
-|            | Alex Ng         | Research talk |
 |12/03       | Xi Chen         |Research talk|
 |            | Per Lindgren    |Literature talk|
