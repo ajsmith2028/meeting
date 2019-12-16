@@ -30,3 +30,4 @@ ERC 250
 |11/26            | Shubham Sharma | Research talk |
 |12/03       | Xi Chen         |Research talk|
 |            | Per Lindgren    |Literature talk|
+|12/17       | Mayank Agrawal | Past research |
