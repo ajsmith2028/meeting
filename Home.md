@@ -31,3 +31,4 @@ ERC 250
 |12/03       | Xi Chen         |Research talk|
 |            | Per Lindgren    |Literature talk|
 |12/17       | Mayank Agrawal | Past research |
+|            | Jialin Tang    | Past research |
