@@ -20,7 +20,7 @@ We'll assign two groups before the first meeting; these are:
 ## Group A ##
 (Jan 29 and alternating Thursdays)
 
-Per Lindgren
+Per Lindgren 
 Xi Chen
 Shubham Sharma
 Mayank Agrawal
