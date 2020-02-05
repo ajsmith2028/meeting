@@ -21,15 +21,22 @@ We'll assign two groups before the first meeting; these are:
 (Jan 29 and alternating Thursdays)
 
 Per Lindgren 
+
 Xi Chen
+
 Shubham Sharma
+
 Mayank Agrawal
 
 ## Group B ##
 (Feb 6 and alternating Thursdays)
 
 Jongyoon Bae
+
 Cheng Zeng
+
 Jialin Tang
+
 David Lu  
+
 Andrew Peterson
