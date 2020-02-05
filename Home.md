@@ -2,7 +2,7 @@
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
 **Spring 2020**  
-Thursdays, 9 am - 11 pm  
+Thursdays, 9 am - 11 am  
 ERC 225 (on Feb 27, March 5: ERC 206)
 
 
