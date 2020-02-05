@@ -1,34 +1,35 @@
 # Group meeting schedule #
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
-**Fall 2019**  
-Tuesdays, 11 am - 1 pm  
-ERC 250
+**Spring 2020**  
+Thursdays, 9 am - 11 pm  
+ERC 225 (on Feb 27, March 5: ERC 206)
 
 
-1. A research update.
-2. A review of any journal article of your choice, that you find important and interesting.
+We will follow our annual spring format. Everyone presents a very short talk (10 min) at alternating meetings, with a maximum of two slides. These talks are meant to be free form and not strictly research updates; you can talk about something you learned in the literature or an idea you had, for instance. You should select one or two items from the following list of categories:
 
-(Up to two talks per week.)
+* Something you learned or can teach us (e.g., a new article you found, a different technique, a software trick, etc.)
+* Something that went well (e.g., new data, a paper submitted or published, etc.)
+* Something that you got stuck on (e.g., an unforeseen hiccup in lab work, etc.)
+* An idea you had, or something you are excited to try (e.g., an idea for a new experiment, a faster way to do data analysis, ...)
 
+Slides should be uploaded to the google drive by 3pm; we need a volunteer to bring a laptop.
 
-|   Date     |   Presenter   |   Talk Title                                              |
-| ---------- | ------------- | --------------------------------------------------------- |
-| 9/24       |  Andy Peterson  | Brief explanation of adsorbate--potential link (15 min)  |
-|            |  Cheng Zeng     |  Literature talk: [Automatic selection of atomic fingerprints and reference configurations for machine-learning potentials](https://aip.scitation.org/doi/10.1063/1.5024611)  |
-|            |  Jiefeng Diao   | Research talk  |
-| 10/1|David Lu | Lit Talk: https://pubs.acs.org/doi/pdf/10.1021/jacs.5b03329
-|10/8        | Shubham Sharma  | Literature: Removing External Degrees of Freedom from Transition-State| |Search Methods using Quaternions |
-|           |  Cheng Zeng   |  GPAW test: force-consistent energy *versus* extrapolated energy  |
-|10/22       | Jongyoon Bae    | Research talk  | 
-|            | Alex Ng         | Literature talk  | 
-|10/29       | Jongyoon Bae    | Literature talk | 
-|            | Cheng Zeng      | Research update | 
-|11/5        | Per Lindgren    | Research: Scaled and Dynamic Optimizations of Nudged Elastic Bands |
-|11/19       | Xi Chen         | Literature talk  |
- |           | David Lu       | Research update |
-|11/26            | Shubham Sharma | Research talk |
-|12/03       | Xi Chen         |Research talk|
-|            | Per Lindgren    |Literature talk|
-|12/17       | Mayank Agrawal | Past research - Adsorption of Complex Molecules using Metal-Organic Frameworks |
-|            | Jialin Tang    | Past research |
+We'll assign two groups before the first meeting; these are:
+
+## Group A ##
+(Jan 29 and alternating Thursdays)
+
+Per Lindgren   
+Xi Chen  
+Shubham Sharma
+Mayank Agrawal
+
+## Group B ##
+(Feb 6 and alternating Thursdays)
+
+Jongyoon Bae
+Cheng Zeng
+Jialin Tang
+David Lu  
+Andrew Peterson
