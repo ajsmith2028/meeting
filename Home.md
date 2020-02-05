@@ -21,11 +21,8 @@ We'll assign two groups before the first meeting; these are:
 (Jan 29 and alternating Thursdays)
 
 Per Lindgren
-  
-Xi Chen  
-
+Xi Chen
 Shubham Sharma
-
 Mayank Agrawal
 
 ## Group B ##
