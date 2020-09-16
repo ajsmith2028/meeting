@@ -30,11 +30,11 @@ Let us know if you will not be attending any meeting in person and we will set u
 |            |               |                                                           |
 | 2-Nov      |               |                                                           |
 |            |               |                                                           |
-| 9-Nov      |               |                                                           |
+| 9-Nov      |  Jongyoon Bae | Literature: TBD                                           |
 |            |               |                                                           |
 | 16-Nov     |  Jialin Tang  |Preparation of Sulfur-doped Mo2C/rGO hybrid for Electrocatalytic Hydrogen Evolution                                                          
 |            |     Shubham Sharma       | Potential dependent barriers for oxygen reduction reaction                                                     |
-| 23-Nov     |               |                                                           |
+| 23-Nov     |  Jongyoon Bae |Research: Toward bridging a gap between stochastic and continuum kinetic modeling                                                           |
 |            |               |                                                           |
 | 30-Nov     |   READING     | No group meeting if we can avoid it                       |
 |            |               |                                                           |
