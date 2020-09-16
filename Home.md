@@ -25,15 +25,14 @@ Let us know if you will not be attending any meeting in person and we will set u
 |            |               |                                                           |
 | 12-Oct     |  IPD          | No group meeting                                          |
 |            |               |                                                           |
-| 19-Oct     |               |                                                           |
-|            |               |                                                           |
+| 19-Oct     | Jialin Tang   |Lab-on-a-chip: Graphene-based Bioelectronics in Sensing Cell Metabolism                                                           |            |               |                                                           |
 | 26-Oct     |               |                                                           |
 |            |               |                                                           |
 | 2-Nov      |               |                                                           |
 |            |               |                                                           |
 | 9-Nov      |               |                                                           |
 |            |               |                                                           |
-| 16-Nov     |               |                                                           |
+| 16-Nov     |  Jialin Tang  |Preparation of Sulfur-doped Mo2C/rGO hybrid for Electrocatalytic Hydrogen Evolution                                                          |
 |            |               |                                                           |
 | 23-Nov     |               |                                                           |
 |            |               |                                                           |
