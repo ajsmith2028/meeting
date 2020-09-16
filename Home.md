@@ -37,7 +37,7 @@ Let us know if you will not be attending any meeting in person and we will set u
 |            |               |                                                           |
 | 23-Nov     |               |                                                           |
 |            |               |                                                           |
-| 30-Nov     |               |                                                           |
+| 30-Nov     |   READING     | No group meeting if we can avoid it                       |
 |            |               |                                                           |
 | 7-Dec      |   FINALS      | No group meetings                                         |
 |            |               |                                                           |
