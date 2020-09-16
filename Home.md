@@ -1,42 +1,43 @@
 # Group meeting schedule #
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
-**Spring 2020**  
-Thursdays, 9 am - 11 am  
-ERC 225 (on Feb 27, March 5: ERC 206)
+**Fall 2020**  
+Mondays, 2 pm - 4 pm  
+BH 751
+
+Everyone should sign up to give both:
+
+1. A research update.
+2. A review of any journal article of your choice, that you find important and interesting.
+
+(Up to two talks per week.) Please indicate the title and DOI of the paper you will be discussing, and also put in a formal title for your research talk.
+
+Let us know if you will not be attending any meeting in person and we will set up a zoom link.
 
 
-We will follow our annual spring format. Everyone presents a very short talk (10 min) at alternating meetings, with a maximum of two slides. These talks are meant to be free form and not strictly research updates; you can talk about something you learned in the literature or an idea you had, for instance. You should select one or two items from the following list of categories:
-
-* Something you learned or can teach us (e.g., a new article you found, a different technique, a software trick, etc.)
-* Something that went well (e.g., new data, a paper submitted or published, etc.)
-* Something that you got stuck on (e.g., an unforeseen hiccup in lab work, etc.)
-* An idea you had, or something you are excited to try (e.g., an idea for a new experiment, a faster way to do data analysis, ...)
-
-Slides should be uploaded to the google drive by 3pm; we need a volunteer to bring a laptop.
-
-We'll assign two groups before the first meeting; these are:
-
-## Group A ##
-(Jan 29 and alternating Thursdays)
-
-Per Lindgren 
-
-Xi Chen
-
-Shubham Sharma
-
-Mayank Agrawal
-
-## Group B ##
-(Feb 6 and alternating Thursdays)
-
-Jongyoon Bae
-
-Cheng Zeng
-
-Jialin Tang
-
-David Lu  
-
-Andrew Peterson
+|   Date     |   Presenter   |   Talk Title                                              |
+| ---------- | ------------- | --------------------------------------------------------- |
+| 21-Sep     |               |                                                           |
+|            |               |                                                           |
+| 28-Sep     |               |                                                           |
+|            |               |                                                           |
+| 5-Oct      |               |                                                           |
+|            |               |                                                           |
+| 12-Oct     |               |                                                           |
+|            |               |                                                           |
+| 19-Oct     |               |                                                           |
+|            |               |                                                           |
+| 26-Oct     |               |                                                           |
+|            |               |                                                           |
+| 2-Nov      |               |                                                           |
+|            |               |                                                           |
+| 9-Nov      |               |                                                           |
+|            |               |                                                           |
+| 16-Nov     |               |                                                           |
+|            |               |                                                           |
+| 23-Nov     |               |                                                           |
+|            |               |                                                           |
+| 30-Nov     |               |                                                           |
+|            |               |                                                           |
+| 7-Dec      |   FINALS      | No group meetings                                         |
+|            |               |                                                           |
