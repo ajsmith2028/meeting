@@ -31,11 +31,11 @@ Let us know if you will not be attending any meeting in person and we will set u
 | 2-Nov      |               |                                                           |
 |            |               |                                                           |
 | 9-Nov      |  Jongyoon Bae | Literature: TBD                                           |
-|            |               |                                                           |
+|            |  Cheng Zeng   | Self-consistent machine-learning models to predict nanoparticle reactivity                                                          |
 | 16-Nov     |  Jialin Tang  |Preparation of Sulfur-doped Mo2C/rGO hybrid for Electrocatalytic Hydrogen Evolution                                                          
 |            |     Shubham Sharma       | Potential dependent barriers for oxygen reduction reaction                                                     |
 | 23-Nov     |  Jongyoon Bae |Research: Toward bridging a gap between stochastic and continuum kinetic modeling                                                           |
-|            |               |                                                           |
+|            |   Cheng Zeng  | Literature: TBD                                           |
 | 30-Nov     |   READING     | No group meeting if we can avoid it                       |
 |            |               |                                                           |
 | 7-Dec      |   FINALS      | No group meetings                                         |
