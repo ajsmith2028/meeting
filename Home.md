@@ -17,7 +17,7 @@ Let us know if you will not be attending any meeting in person and we will set u
 
 |   Date     |   Presenter   |   Talk Title                                              |
 | ---------- | ------------- | --------------------------------------------------------- |
-| 21-Sep     | Mayank Agrawal| Literature: Metadynamics as a tool for exploring free energy landscapes of chemical reactions. https://doi.org/10.1021/ar040198i |
+| 21-Sep     | Mayank Agrawal| Literature: TBD |
 |            |               |                                                           |
 | 28-Sep     |               |                                                           |
 |            |               |                                                           |
