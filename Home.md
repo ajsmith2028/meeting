@@ -26,7 +26,7 @@ Let us know if you will not be attending any meeting in person and we will set u
 | 12-Oct     |  IPD          | No group meeting                                          |
 |            |               |                                                           |
 | 19-Oct     | Jialin Tang   |Lab-on-a-chip: Graphene-based Bioelectronics in Sensing Cell Metabolism                                                           |            |               |                                                           |
-| 26-Oct     | Shubham Sharma| Literature: To be decided                                                          |            | Xi Chen       | Literature: TBD 
+| 26-Oct     | Shubham Sharma| Literature: To be decided                                  |                        |            | Xi Chen       | Literature: TBD |
 |            |               |                                                           |
 | 2-Nov      | Xi Chen       | Research                                         |
 |            |               |                                                           |
