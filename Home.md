@@ -23,7 +23,7 @@ Let us know if you will not be attending any meeting in person and we will set u
 |            |               |                                                           |
 | 5-Oct      |               |                                                           |
 |            |               |                                                           |
-| 12-Oct     |               |                                                           |
+| 12-Oct     |  IPD          | No group meeting                                          |
 |            |               |                                                           |
 | 19-Oct     |               |                                                           |
 |            |               |                                                           |
