@@ -17,12 +17,12 @@ Let us know if you will not be attending any meeting in person and we will set u
 
 |   Date     |   Presenter   |   Talk Title                                              |
 | ---------- | ------------- | --------------------------------------------------------- |
-| 21-Sep     |               |                                                           |
+| 21-Sep     | Mayank Agrawal| Literature: TBD                                           |
 |            |               |                                                           |
 | 28-Sep     |               |                                                           |
 |            |               |                                                           |
-| 5-Oct      | Xi Chen       |   Literature: TBD                                         |
-|            |               |                                                           |
+| 5-Oct      | Xi Chen       | Literature: TBD                                         |
+|            | Mayank Agrawal| CO desorption on metal surfaces in the presence of water  |
 | 12-Oct     |  IPD          | No group meeting                                          |
 |            |               |                                                           |
 | 19-Oct     | Jialin Tang   |Lab-on-a-chip: Graphene-based Bioelectronics in Sensing Cell Metabolism                                                           |            |               |                                                           |
