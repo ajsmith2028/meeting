@@ -32,8 +32,8 @@ Let us know if you will not be attending any meeting in person and we will set u
 |            |               |                                                           |
 | 9-Nov      |               |                                                           |
 |            |               |                                                           |
-| 16-Nov     |  Jialin Tang  |Preparation of Sulfur-doped Mo2C/rGO hybrid for Electrocatalytic Hydrogen Evolution                                                          |               Shubham Sharma Potential dependent barriers for oxygen reduction reaction
-|            |               |                                                           |
+| 16-Nov     |  Jialin Tang  |Preparation of Sulfur-doped Mo2C/rGO hybrid for Electrocatalytic Hydrogen Evolution                                                          
+|            |     Shubham Sharma       | Potential dependent barriers for oxygen reduction reaction                                                     |
 | 23-Nov     |               |                                                           |
 |            |               |                                                           |
 | 30-Nov     |   READING     | No group meeting if we can avoid it                       |
