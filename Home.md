@@ -17,12 +17,12 @@ Let us know if you will not be attending any meeting in person and we will set u
 
 |   Date     |   Presenter   |   Talk Title                                              |
 | ---------- | ------------- | --------------------------------------------------------- |
-| 21-Sep     | Mayank Agrawal| Literature: TBD |
+| 21-Sep     | Mayank Agrawal| Literature: Metadynamics as a tool for exploring free energy landscapes of chemical reactions. doi:  10.1021/ar040198i |
 |            |               |                                                           |
 | 28-Sep     |               |                                                           |
 |            |               |                                                           |
 | 5-Oct      | Xi Chen       | Literature: TBD                                         |
-|            | Mayank Agrawal| CO desorption on metal surfaces in the presence of water  |
+|            | Mayank Agrawal| CO desorption from metal surfaces in the presence of water  |
 | 12-Oct     |  IPD          | No group meeting                                          |
 |            |               |                                                           |
 | 19-Oct     | Jialin Tang   |Lab-on-a-chip: Graphene-based Bioelectronics in Sensing Cell Metabolism                                                           |            |               |                                                           |
