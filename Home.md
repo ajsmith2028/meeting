@@ -23,6 +23,7 @@ Let us know if you will not be attending any meeting in person and we will set u
 |            |               |                                                           |
 | 5-Oct      | Xi Chen       | Literature: TBD                                         |
 |            | Mayank Agrawal| CO desorption from metal surfaces in the presence of water  |
+|            |               |                                                           |
 | 12-Oct     |  IPD          | No group meeting                                          |
 |            |               |                                                           |
 | 19-Oct     | Jialin Tang   |Literature: Graphene-based Bioelectronics in Sensing Cell Metabolism                                                           |            |               |                                                           |
@@ -36,6 +37,7 @@ Let us know if you will not be attending any meeting in person and we will set u
 |            |      |                                           |
 | 16-Nov     |  Jialin Tang  |Research: Preparation of Sulfur-doped Mo2C/rGO hybrid for Electrocatalytic Hydrogen Evolution                                                          
 |            |     Shubham Sharma       | Potential dependent barriers for oxygen reduction reaction                                                     |
+|            |               |                                                           |
 | 23-Nov     |  Jongyoon Bae |Research: Toward bridging a gap between stochastic and continuum kinetic modeling                                                           |
 |            |     |                                            |
 | 30-Nov     |   READING     | No group meeting if we can avoid it                       |
