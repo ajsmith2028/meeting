@@ -21,8 +21,9 @@ Let us know if you will not be attending any meeting in person and we will set u
 |            |               |                                                           |
 | 28-Sep     |               |                                                           |
 |            |               |                                                           |
-| 5-Oct      | Xi Chen       | Literature: TBD                                         |
-|            | Mayank Agrawal| CO desorption from metal surfaces in the presence of water  |
+| 5-Oct      | Andy Peterson | Thermodynamics: canonical and grand-canonical             |
+|            | Xi Chen       | Literature: TBD                                           |
+|            | Mayank Agrawal| CO desorption from metal surfaces in the presence of water|
 |            |               |                                                           |
 | 12-Oct     |  IPD          | No group meeting                                          |
 |            |               |                                                           |
