@@ -28,9 +28,7 @@ Let us know if you will not be attending any meeting in person and we will set u
 | 12-Oct     |  IPD          | No group meeting                                          |
 |            |               |                                                           |
 | 19-Oct     | Jialin Tang   |Literature: Graphene-based Bioelectronics in Sensing Cell Metabolism                                                           |            |               |                                                           |
-| 26-Oct     | Shubham Sharma| Literature: Unified approach to
-implicit and explicit solvent simulations of
-electrochemical reaction energetics                                  |                        |
+| 26-Oct     | Shubham Sharma| Literature: Unified approach to implicit and explicit solvent simulations of electrochemical reaction energetics                                  |                        |
 |            
 | 2-Nov      | Xi Chen       | Research: Machine-learning model for electrochemical reaction barriers                                         |
 |            |    Cheng Zeng  |      Literature: Evidence for supercritical behaviour of  high-pressure liquid hydrogen.   doi: https://doi.org/10.1038/s41586-020-2677-y                              |
