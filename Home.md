@@ -33,7 +33,7 @@ Let us know if you will not be attending any meeting in person and we will set u
 | 2-Nov      | Xi Chen       | Research: Machine-learning model for electrochemical reaction barriers                                         |
 |            |    Cheng Zeng  |      Literature: Evidence for supercritical behaviour of  high-pressure liquid hydrogen.   doi: https://doi.org/10.1038/s41586-020-2677-y                              |
 |            |      |                                           |
-| 9-Nov      |  Jongyoon Bae | Literature: TBD                                           |
+| 9-Nov      |  Jongyoon Bae | Literature: An Extension of the Marcus Equation for Atom Transfer Reactions https://doi.org/10.1021/jp990039u |
 |            |  Cheng Zeng   | Research: Self-consistent machine-learning models to predict nanoparticle reactivity                                                          |
 |            |      |                                           |
 | 16-Nov     |  Jialin Tang  |Research: Preparation of Sulfur-doped Mo2C/rGO hybrid for Electrocatalytic Hydrogen Evolution                                                          
