@@ -34,12 +34,13 @@ Let us know if you will not be attending any meeting in person and we will set u
 |            |    Cheng Zeng  |      Literature: Evidence for supercritical behaviour of  high-pressure liquid hydrogen.   doi: https://doi.org/10.1038/s41586-020-2677-y                              |
 |            |      |                                           |
 | 9-Nov      |  Jongyoon Bae | Literature: An Extension of the Marcus Equation for Atom Transfer Reactions https://doi.org/10.1021/jp990039u |
-|            |  Cheng Zeng   | Research: Self-consistent machine-learning models to predict nanoparticle reactivity                                                          |
+
 |            |      |                                           |
 | 16-Nov     |  Jialin Tang  |Research: Preparation of Sulfur-doped Mo2C/rGO hybrid for Electrocatalytic Hydrogen Evolution                                                          
 |            |     Shubham Sharma       | Potential dependent barriers for oxygen reduction reaction                                                     |
 |            |               |                                                           |
 | 23-Nov     |  Jongyoon Bae |Research: Toward bridging a gap between stochastic and continuum kinetic modeling                                                           |
+|            |  Cheng Zeng   | Research: Self-consistent machine-learning models to predict nanoparticle reactivity                                                          |
 |            |     |                                            |
 | 30-Nov     |   READING     | No group meeting if we can avoid it                       |
 |            |               |                                                           |
