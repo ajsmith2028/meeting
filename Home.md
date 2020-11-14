@@ -35,7 +35,7 @@ Let us know if you will not be attending any meeting in person and we will set u
 |            |      |                                           |
 | 9-Nov      |  Jongyoon Bae | Literature: An Extension of the Marcus Equation for Atom Transfer Reactions https://doi.org/10.1021/jp990039u |
 |            |      |                                           |
-| 16-Nov     |  Jialin Tang  |Literature: Solid-State-Electrolyte: Electrocatalytic CO2 Reduction to produce Fuels and Chemicals                                          
+| 16-Nov     |  Jialin Tang  |Literature: Solid-State-Electrolyte: Electrocatalytic CO2 Reduction to produce Fuels and Chemicals.https://www.nature.com/articles/s41560-019-0451-x                                          
 |            |     Shubham Sharma       | Potential dependent barriers for oxygen reduction reaction                                                     |
 |            |               |                                                           |
 | 23-Nov     |  Jongyoon Bae |Research: Toward bridging a gap between stochastic and continuum kinetic modeling                                                           |
