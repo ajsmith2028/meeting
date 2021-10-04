@@ -1,8 +1,8 @@
 # Group meeting schedule #
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
-**Fall 2020**  
-Mondays, 2 pm - 4 pm  
+**Fall 2021**  
+Wednesday, 2 pm - 4 pm  
 BH 751
 
 Everyone should sign up to give both:
