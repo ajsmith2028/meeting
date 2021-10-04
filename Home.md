@@ -17,7 +17,7 @@ Please indicate the title and DOI of the paper you will be discussing, and also 
 | ------ | ------------- | --------------------------------------------------------- |
 | 6-Oct  |               |                                                           |
 | 13-Oct | Xi            |  Literature review                                        |
-| 20-Oct | Mayank              | Research Update                                                          |
+| 20-Oct | Mayank        | Research Update                                           |
 | 27-Oct |               |                                                           |
 | 3-Nov  |               |                                                           |
 | 10-Nov |               |                                                           |
