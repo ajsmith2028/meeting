@@ -19,7 +19,7 @@ Please indicate the title and DOI of the paper you will be discussing, and also 
 | 13-Oct | Xi            |  Literature review                                        |
 | 20-Oct | Mayank        | Research Update                                           |
 | 27-Oct | Cheng         | Research Update                                           |
-| 3-Nov  |               |                                                           |
+| 3-Nov  | Mayank        | Literature Talk                                           |
 | 10-Nov | Cheng         |  Literature talk                                          |
 | 17-Nov | Xi            |research update                                            |
 | 24-Nov | no meeting    | Thanksgiving break                                        |
