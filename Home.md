@@ -2,46 +2,26 @@
 [Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
 
 **Fall 2021**  
-Wednesday, 2 pm - 4 pm  
-BH 751
+Wednesdays, 2 pm - 4 pm  
+Room TBA
 
 Everyone should sign up to give both:
 
 1. A research update.
 2. A review of any journal article of your choice, that you find important and interesting.
 
-(Up to two talks per week.) Please indicate the title and DOI of the paper you will be discussing, and also put in a formal title for your research talk.
-
-Let us know if you will not be attending any meeting in person and we will set up a zoom link.
+Please indicate the title and DOI of the paper you will be discussing, and also put in a formal title for your research talk. Upload slides to our shared folder.
 
 
-|   Date     |   Presenter   |   Talk Title                                              |
-| ---------- | ------------- | --------------------------------------------------------- |
-| 21-Sep     | Mayank Agrawal| Literature: Metadynamics as a tool for exploring free energy landscapes of chemical reactions. doi:  10.1021/ar040198i |
-|            |               |                                                           |
-| 28-Sep     |               |                                                           |
-|            |               |                                                           |
-| 5-Oct      | Andy Peterson | Thermodynamics: canonical and grand-canonical             |
-|            | Xi Chen       | Literature: TBD                                           |
-|            | Mayank Agrawal| CO desorption from metal surfaces in the presence of water|
-|            |               |                                                           |
-| 12-Oct     |  IPD          | No group meeting                                          |
-|            |               |                                                           |
-| 19-Oct     | Jialin Tang   |Literature: Graphene-based Bioelectronics in Sensing Cell Metabolism                                                           |            |               |                                                           |
-| 26-Oct     | Shubham Sharma| Literature: Unified approach to implicit and explicit solvent simulations of electrochemical reaction energetics                                  |                        |
-|            
-| 2-Nov      | Xi Chen       | Research: Machine-learning model for electrochemical reaction barriers                                         |
-|            |    Cheng Zeng  |      Literature: Evidence for supercritical behaviour of  high-pressure liquid hydrogen.   doi: https://doi.org/10.1038/s41586-020-2677-y                              |
-|            |      |                                           |
-| 9-Nov      |  Jongyoon Bae | Literature: An Extension of the Marcus Equation for Atom Transfer Reactions https://doi.org/10.1021/jp990039u |
-|            |      |                                           |
-| 16-Nov     |  Jialin Tang  |Literature: Solid-State-Electrolyte: Electrocatalytic CO2 Reduction to produce Fuels and Chemicals.https://www.nature.com/articles/s41560-019-0451-x                                          
-|            |     Shubham Sharma       | Potential dependent barriers for oxygen reduction reaction                                                     |
-|            |               |                                                           |
-| 23-Nov     |  Jongyoon Bae |Research: Toward bridging a gap between stochastic and continuum kinetic modeling                                                           |
-|            |  Cheng Zeng   | Research: Self-consistent machine-learning models to predict nanoparticle reactivity                                                          |
-|            |     |                                            |
-| 30-Nov     |   READING     | No group meeting if we can avoid it                       |
-|            |               |                                                           |
-| 7-Dec      |   FINALS      | No group meetings                                         |
-|            |               |                                                           |
+| Date   |   Presenter   |   Talk Title                                              |
+| ------ | ------------- | --------------------------------------------------------- |
+| 6-Oct  |               |                                                           |
+| 13-Oct |               |                                                           |
+| 20-Oct |               |                                                           |
+| 27-Oct |               |                                                           |
+| 3-Nov  |               |                                                           |
+| 10-Nov |               |                                                           |
+| 17-Nov |               |                                                           |
+| 24-Nov | no meeting    | Thanksgiving break                                        |
+| 1-Dec  |               |                                                           |
+| 8-Dec  | no meeting    | Reading period starts                                     |
