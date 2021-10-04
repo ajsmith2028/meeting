@@ -15,7 +15,7 @@ Please indicate the title and DOI of the paper you will be discussing, and also 
 
 | Date   |   Presenter   |   Talk Title                                              |
 | ------ | ------------- | --------------------------------------------------------- |
-| 6-Oct  |               |                                                           |
+| 6-Oct  | Jongyoon      | Research Update                                           |
 | 13-Oct | Xi            |  Literature review                                        |
 | 20-Oct | Mayank        | Research Update                                           |
 | 27-Oct | Cheng         | Research Update                                           |
@@ -23,5 +23,5 @@ Please indicate the title and DOI of the paper you will be discussing, and also 
 | 10-Nov | Cheng         |  Literature talk                                          |
 | 17-Nov | Xi            |research update                                            |
 | 24-Nov | no meeting    | Thanksgiving break                                        |
-| 1-Dec  |               |                                                           |
+| 1-Dec  | Jongyoon      | Literature review                                         |
 | 8-Dec  | no meeting    | Reading period starts                                     |
