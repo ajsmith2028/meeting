@@ -16,12 +16,12 @@ Please indicate the title and DOI of the paper you will be discussing, and also 
 | Date   |   Presenter   |   Talk Title                                              |
 | ------ | ------------- | --------------------------------------------------------- |
 | 6-Oct  |               |                                                           |
-| 13-Oct |               |                                                           |
+| 13-Oct | Xi            |  Literature review                                        |
 | 20-Oct |               |                                                           |
 | 27-Oct |               |                                                           |
 | 3-Nov  |               |                                                           |
 | 10-Nov |               |                                                           |
-| 17-Nov |               |                                                           |
+| 17-Nov | Xi            |research update                                            |
 | 24-Nov | no meeting    | Thanksgiving break                                        |
 | 1-Dec  |               |                                                           |
 | 8-Dec  | no meeting    | Reading period starts                                     |
