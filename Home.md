@@ -18,7 +18,7 @@ Please indicate the title and DOI of the paper you will be discussing, and also 
 | 6-Oct  | Jongyoon      | Research Update                                           |
 | 13-Oct | Xi            | Literature review                                         |
 | 20-Oct | Mayank        | Research Update                                           |
-| 27-Oct | Cheng         | Research Update                                           |
+| 27-Oct | Cheng         | Research Talk: Machine-learning (ML) models with nearsighted force (NFT) training allow large-scale calculations at ab initio quality                                           |
 | 3-Nov  | Mayank        | Literature Talk                                           |
 | 10-Nov | Cheng         | Literature talk                                           |
 | 17-Nov | Xi            | research update                                           |
