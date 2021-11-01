@@ -20,8 +20,7 @@ Please indicate the title and DOI of the paper you will be discussing, and also 
 | 20-Oct | Mayank        | Research Update                                           |
 | 27-Oct | Cheng         | Research Talk: Machine-learning (ML) models with nearsighted force training (NFT) allow large-scale calculations at ab initio quality                                           |
 | 3-Nov  | Mayank        | Literature Talk                                           |
-| 10-Nov | Cheng         | Literature Talk: Automated design of collective variables
-using supervised machine learning (DOI: [https://doi.org/10.1063/1.5029972](https://doi.org/10.1063/1.5029972) )                                           |
+| 10-Nov | Cheng         | Literature Talk: Automated design of collective variables using supervised machine learning (DOI: [https://doi.org/10.1063/1.5029972](https://doi.org/10.1063/1.5029972))                                         |
 | 17-Nov | Xi            | research update                                           |
 | 24-Nov | no meeting    | Thanksgiving break                                        |
 | 1-Dec  | Jongyoon      | Literature review                                         |
