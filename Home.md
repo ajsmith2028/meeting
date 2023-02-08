@@ -19,9 +19,9 @@ We'll assign two groups; these are:
 ## Group A ##
 (Feb 8 and alternating Wednesday)
 
-Juye Kim
-Bjarne Kreitz
-Andrew Peterson
+* Juye Kim
+* Bjarne Kreitz
+* Andrew Peterson
 
 
 ## Group B ##
