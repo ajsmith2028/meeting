@@ -19,10 +19,21 @@ We'll assign two groups; these are:
 ## Group A ##
 (Feb 8 and alternating Wednesday)
 
-* Juye Kim
+* Mpumi Tshabalala
 * Bjarne Kreitz
-* Andrew Peterson
+* Xin Lian
+* Kaavya Malhotra
+* Alexander Lee
+* Jongyoon Bae
+* Kirk Badger
 
 
 ## Group B ##
 (Feb 15 and alternating Wednesdays)
+* Andrew Peterson
+* Changzhi Ai
+* Alexander Lackey
+* Tal Dickman
+* Youbin Kim
+* Akiko Motoki
+* Juye Kim
