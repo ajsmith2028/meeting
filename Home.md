@@ -1,27 +1,28 @@
 # Group meeting schedule #
-[Catalyst Design Lab](http://brown.edu/go/catalyst) (PI: Andrew Peterson)
+[Catalyst Design Lab](http://brown.edu/go/catalyst) and friends (PI: Andrew Peterson)
 
-**Fall 2021**  
-Wednesdays, 2 pm - 4 pm  
-ERC 325
+**Spring 2023**  
+Wednesdays, 3 pm - 5 pm  
+ERC 350
 
-Everyone should sign up to give both:
+We will follow our annual spring format. Everyone presents a very short talk (10 min) at alternating meetings, with a maximum of two slides. These talks are meant to be free form and not strictly research updates; you can talk about something you learned in the literature or an idea you had, for instance. You should select one or two items from the following list of categories:
 
-1. A research update.
-2. A review of any journal article of your choice, that you find important and interesting.
+* Something you learned or can teach us (e.g., a new article you found, a different technique, a software trick, etc.)
+* Something that went well (e.g., new data, a paper submitted or published, etc.)
+* Something that you got stuck on (e.g., an unforeseen hiccup in lab work, etc.)
+* An idea you had, or something you are excited to try (e.g., an idea for a new experiment, a faster way to do data analysis, ...)
 
-Please indicate the title and DOI of the paper you will be discussing, and also put in a formal title for your research talk. Upload slides to our shared folder.
+Slides should be uploaded to the google drive by 3pm; we need a volunteer to bring a laptop.
+
+We'll assign two groups; these are:
+
+## Group A ##
+(Feb 8 and alternating Wednesday)
+
+Juye Kim
+Bjarne Kreitz
+Andrew Peterson
 
 
-| Date   |   Presenter   |   Talk Title                                              |
-| ------ | ------------- | --------------------------------------------------------- |
-| 6-Oct  | Jongyoon      | Research Update                                           |
-| 13-Oct | Xi            | Literature review                                         |
-| 20-Oct | Mayank        | Research Update                                           |
-| 27-Oct | Cheng         | Research Talk: Machine-learning models with nearsighted force training allow large-scale calculations at ab initio quality                                           |
-| 3-Nov  | Mayank        | Literature Talk                                           |
-| 10-Nov | Cheng         | Literature Talk: Automated design of collective variables using supervised machine learning (DOI: [https://doi.org/10.1063/1.5029972](https://doi.org/10.1063/1.5029972))                                         |
-| 17-Nov | Xi            | research update                                           |
-| 24-Nov | no meeting    | Thanksgiving break                                        |
-| 1-Dec  | Jongyoon      | Literature review                                         |
-| 8-Dec  | no meeting    | Reading period starts                                     |
+## Group B ##
+(Feb 15 and alternating Wednesdays)
