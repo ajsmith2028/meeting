@@ -24,7 +24,6 @@ We'll assign two groups; these are:
 * Xin Lian
 * Kaavya Malhotra
 * Alexander Lee
-* Jongyoon Bae
 * Kirk Badger
 * Mostafa Abedi
 
