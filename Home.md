@@ -30,6 +30,7 @@ We'll assign two groups; these are:
 
 ## Group B ##
 (Feb 15 and alternating Wednesdays)
+
 * Andrew Peterson
 * Changzhi Ai
 * Alexander Lackey
