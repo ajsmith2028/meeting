@@ -26,6 +26,7 @@ We'll assign two groups; these are:
 * Alexander Lee
 * Jongyoon Bae
 * Kirk Badger
+* Mostafa Abedi
 
 
 ## Group B ##
