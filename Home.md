@@ -10,18 +10,19 @@ Everyone should sign up to give both:
 1. A research update.
 2. A review of any journal article of your choice, that you find important and interesting.
 
-Please indicate the title and DOI of the paper you will be discussing, and also put in a formal title for your research talk. Upload slides to our shared folder.
+Plan for your talk to be 30-40 minutes to allow time for discussion. Up to two talks per week. Please indicate the title and DOI of the paper you will be discussing, and also put in a formal title for your research talk. Upload slides to our shared folder.
 
 
 | Date   |   Presenter   |   Talk Title                                              |
 | ------ | ------------- | --------------------------------------------------------- |
-| 6-Oct  | Jongyoon      | Research Update                                           |
-| 13-Oct | Xi            | Literature review                                         |
-| 20-Oct | Mayank        | Research Update                                           |
-| 27-Oct | Cheng         | Research Talk: Machine-learning models with nearsighted force training allow large-scale calculations at ab initio quality                                           |
-| 3-Nov  | Mayank        | Literature Talk                                           |
-| 10-Nov | Cheng         | Literature Talk: Automated design of collective variables using supervised machine learning (DOI: [https://doi.org/10.1063/1.5029972](https://doi.org/10.1063/1.5029972))                                         |
-| 17-Nov | Xi            | research update                                           |
-| 24-Nov | no meeting    | Thanksgiving break                                        |
-| 1-Dec  | Jongyoon      | Literature review                                         |
-| 8-Dec  | no meeting    | Reading period starts                                     |
+| 4-Oct  | Alexander     | Research Update                                           |
+| 11-Oct |               |                                                           |
+| 18-Oct |               |                                                           |
+| 25-Oct |               | [No meeting: ISE workshop]                                |
+| 1-Nov  |               |                                                           |
+| 8-Nov  |               |                                                           |
+| 15-Nov |               |                                                           |
+| 22-Nov |               | [No meeting: Thanksgiving break]                          |
+| 29-Nov |               |                                                           |
+| 6-Dec  |               |                                                           |
+                                                     |
