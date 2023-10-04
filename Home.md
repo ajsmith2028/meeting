@@ -17,12 +17,12 @@ Plan for your talk to be 30-40 minutes to allow time for discussion. Up to two t
 | ------ | ------------- | --------------------------------------------------------- |
 | 4-Oct  | Alexander     | Research Update                                           |
 | 11-Oct |               |                                                           |
-| 18-Oct | Juye          |  Research Update                                          |
+| 18-Oct | Juye          | Research Update (title to be updated later)               |
 | 25-Oct |               | [No meeting: ISE workshop]                                |
 | 1-Nov  |               |                                                           |
 | 8-Nov  |               |                                                           |
 | 15-Nov |               |                                                           |
 | 22-Nov |               | [No meeting: Thanksgiving break]                          |
-| 29-Nov | Sandy         |   Research Update                                         |
+| 29-Nov | Sandy, Juye   | Research Update (Sandy), Literature Review (Juye)         |
 | 6-Dec  |               |                                                           |
                                                      |
