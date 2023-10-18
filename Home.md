@@ -17,7 +17,7 @@ Plan for your talk to be 30-40 minutes to allow time for discussion. Up to two t
 | ------ | ------------- | --------------------------------------------------------- |
 | 4-Oct  | Alexander     | Research Update                                           |
 | 11-Oct |               |                                                           |
-| 18-Oct | Juye          | Research Update (title to be updated later)               |
+| 18-Oct | Juye          | Research Update - How do protons travel in an electrochemical system? |
 | 18-Oct | Kirk          |                                                           |
 | 25-Oct |               | [No meeting: ISE workshop]                                |
 | 1-Nov  | Alexander     | Literature Review                                         |
