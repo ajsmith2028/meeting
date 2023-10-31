@@ -20,7 +20,7 @@ Plan for your talk to be 30-40 minutes to allow time for discussion. Up to two t
 | 18-Oct | Juye          | Research Update - How do protons travel in an electrochemical system? |
 | 18-Oct | Kirk          |                                                           |
 | 25-Oct |               | [No meeting: ISE workshop]                                |
-| 1-Nov  | Alexander     | Literature Review                                         |
+| 1-Nov  |               |                                                           |
 | 1-Nov  | Xin           | Research Update                                           |
 | 8-Nov  | Sandy         | Literature Review                                         |
 | 8-Nov  | Audrey        | Literature Review                                         |
@@ -29,6 +29,6 @@ Plan for your talk to be 30-40 minutes to allow time for discussion. Up to two t
 | 22-Nov |               | [No meeting: Thanksgiving break]                          |
 | 29-Nov | Sandy         | Research Update                                           |
 | 29-Nov |               |                                                           |
-| 6-Dec  |               |                                                           |
+| 6-Dec  | Alexander     | Lit review                                                |
 | 6-Dec  |               |                                                           |
                                                      |
