@@ -28,7 +28,7 @@ Plan for your talk to be 30-40 minutes to allow time for discussion. Up to two t
 | 15-Nov | Xin           | Literature Review                                         |
 | 22-Nov |               | [No meeting: Thanksgiving break]                          |
 | 29-Nov | Sandy         | Research Update                                           |
-| 29-Nov |               |                                                           |
+| 29-Nov | Kirk          |                                                           |
 | 6-Dec  | Alexander     | Lit review                                                |
 | 6-Dec  |               |                                                           |
                                                      |
