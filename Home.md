@@ -22,7 +22,7 @@ Plan for your talk to be 30-40 minutes to allow time for discussion. Up to two t
 | 25-Oct |               | [No meeting: ISE workshop]                                |
 | 1-Nov  |               |                                                           |
 | 1-Nov  | Xin           | Research Update                                           |
-| 8-Nov  | Juye         |   Literature Review:Grand Canonical DFT Investigation of the CO2RR and HER Reaction Mechanisms on MoTe2 Edges                                        |
+| 8-Nov  | Juye         |   Literature Review: Grand Canonical DFT Investigation of the CO2RR and HER Reaction Mechanisms on MoTe2 Edges                                        |
 | 8-Nov  | Audrey        | Literature Review                                         |
 | 15-Nov | Sandy         | Literature Review                                     |
 | 15-Nov | Xin           | Literature Review                                         |
